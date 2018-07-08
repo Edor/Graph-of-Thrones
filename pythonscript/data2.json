@@ -2387,9 +2387,12 @@
             "type": "kingsguard"
         }, 
         {
-            "source": "1", 
             "target": "12", 
+            "value": 16, 
+            "source": "1", 
+            "stroke": "#98cb4a", 
             "relation": "allegiance", 
+            "stroke-dasharray": "0", 
             "type": "queensquard"
         }, 
         {
@@ -2564,550 +2567,628 @@
             "type": "dragon"
         }, 
         {
+            "target": "99", 
+            "value": 1, 
             "source": "56", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "99", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "77", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "104", 
+            "value": 1, 
             "source": "42", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "104", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "85", 
+            "value": 1, 
             "source": "43", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "85", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "86", 
+            "value": 1, 
             "source": "60", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "86", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "86", 
+            "value": 1, 
             "source": "61", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "86", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "86", 
+            "value": 1, 
             "source": "62", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "86", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
-            "source": "53", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "106", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "53", 
             "stroke": "black", 
-            "type": "house-birth", 
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
+        }, 
+        {
             "target": "101", 
-            "value": 4
+            "value": 4, 
+            "source": "53", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "66", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "94", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "66", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "92", 
-            "value": 4
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "92", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "94", 
+            "value": 1, 
             "source": "67", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "68", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "106", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "68", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 4
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "94", 
+            "value": 4, 
+            "source": "68", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "94", 
+            "value": 1, 
             "source": "69", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "80", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "84", 
+            "value": 1, 
             "source": "52", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "84", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "86", 
+            "value": 1, 
             "source": "25", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "86", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "26", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "27", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "89", 
+            "value": 1, 
             "source": "20", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "89", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "89", 
+            "value": 1, 
             "source": "21", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "89", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "108", 
+            "value": 1, 
             "source": "22", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "108", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "108", 
+            "value": 1, 
             "source": "23", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "108", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "105", 
+            "value": 1, 
             "source": "46", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "105", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "44", 
             "stroke": "black", 
-            "type": "house-marriage", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "93", 
+            "value": 1, 
             "source": "45", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "93", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "28", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "29", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "40", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "104", 
+            "value": 1, 
             "source": "41", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "104", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "102", 
+            "value": 1, 
             "source": "1", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "102", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "90", 
+            "value": 1, 
             "source": "0", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "90", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "2", 
-            "stroke": "black", 
-            "type": "group", 
             "target": "97", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "2", 
             "stroke": "black", 
-            "type": "house-birth", 
+            "stroke-dasharray": "0", 
+            "type": "group"
+        }, 
+        {
             "target": "102", 
-            "value": 2
+            "value": 2, 
+            "source": "2", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "81", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "98", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "81", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "96", 
-            "value": 4
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "96", 
+            "value": 4, 
+            "source": "81", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "98", 
+            "value": 1, 
             "source": "4", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "105", 
+            "value": 1, 
             "source": "7", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "105", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "105", 
+            "value": 1, 
             "source": "9", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "105", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "105", 
+            "value": 1, 
             "source": "8", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "105", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "82", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "83", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "96", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "83", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "88", 
-            "value": 4
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "88", 
+            "value": 4, 
+            "source": "83", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "98", 
+            "value": 1, 
             "source": "39", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "65", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "76", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "95", 
+            "value": 1, 
             "source": "75", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "95", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "38", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "73", 
-            "stroke": "black", 
-            "type": "group", 
             "target": "99", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "73", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "103", 
-            "value": 2
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "103", 
+            "value": 2, 
+            "source": "73", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "94", 
+            "value": 1, 
             "source": "71", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "94", 
+            "value": 1, 
             "source": "70", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "94", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "79", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "95", 
+            "value": 1, 
             "source": "58", 
             "stroke": "black", 
-            "type": "group", 
-            "target": "95", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "106", 
+            "value": 1, 
             "source": "11", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "106", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "105", 
+            "value": 1, 
             "source": "10", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "105", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "84", 
+            "value": 1, 
             "source": "13", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "84", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "84", 
+            "value": 1, 
             "source": "12", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "84", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "108", 
+            "value": 1, 
             "source": "59", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "108", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "84", 
+            "value": 1, 
             "source": "14", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "84", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "91", 
+            "value": 1, 
             "source": "17", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "91", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "33", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "90", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "33", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "92", 
-            "value": 4
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
         }, 
         {
+            "target": "92", 
+            "value": 4, 
+            "source": "33", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "90", 
+            "value": 1, 
             "source": "32", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "90", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "92", 
+            "value": 1, 
             "source": "31", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "92", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "100", 
+            "value": 1, 
             "source": "30", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "100", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "37", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "36", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "98", 
+            "value": 1, 
             "source": "35", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "98", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "34", 
-            "stroke": "black", 
-            "type": "house-marriage", 
             "target": "90", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "34", 
             "stroke": "black", 
-            "type": "house-birth", 
+            "stroke-dasharray": "0", 
+            "type": "house-marriage"
+        }, 
+        {
             "target": "107", 
-            "value": 4
+            "value": 4, 
+            "source": "34", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "55", 
-            "stroke": "black", 
-            "type": "group", 
             "target": "99", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "55", 
             "stroke": "black", 
-            "type": "house-birth", 
+            "stroke-dasharray": "0", 
+            "type": "group"
+        }, 
+        {
             "target": "91", 
-            "value": 2
+            "value": 2, 
+            "source": "55", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
-            "source": "74", 
-            "stroke": "black", 
-            "type": "group", 
             "target": "97", 
-            "value": 1
-        }, 
-        {
+            "value": 1, 
             "source": "74", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "87", 
-            "value": 2
+            "stroke-dasharray": "0", 
+            "type": "group"
         }, 
         {
+            "target": "87", 
+            "value": 2, 
+            "source": "74", 
+            "stroke": "black", 
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
+        }, 
+        {
+            "target": "101", 
+            "value": 1, 
             "source": "54", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "101", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }, 
         {
+            "target": "84", 
+            "value": 1, 
             "source": "50", 
             "stroke": "black", 
-            "type": "house-birth", 
-            "target": "84", 
-            "value": 1
+            "stroke-dasharray": "0", 
+            "type": "house-birth"
         }
     ]
 }

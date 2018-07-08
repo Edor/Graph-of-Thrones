@@ -105,16 +105,15 @@ for edge in edges:
         edge['stroke'] = '#98cb4a'
         edge['stroke-dasharray'] = '0'
 for person in people.keys():
-
     value = 1
     if 'group' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['group']]), "type": 'group', "value": value, "stroke":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['group']]), "type": 'group', "value": value, "stroke":'black', 'stroke-dasharray': '0'})
         value *= 2
     if 'house-marriage' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['house-marriage']]), "type": 'house-marriage', "value": value,"stroke":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['house-marriage']]), "type": 'house-marriage', "value": value,"stroke":'black', 'stroke-dasharray': '0'})
         value *= 4
     if 'house-birth' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['house-birth']]), "type": 'house-birth', "value": value,"stroke":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['house-birth']]), "type": 'house-birth', "value": value,"stroke":'black', 'stroke-dasharray': '0'})
         value *= 2
 
 to_save = {'node': nodes, 'edge': edges}
