@@ -1,2898 +1,3113 @@
 {
     "node": [
         {
-            "id": "0",
-            "status": "Alive",
-            "house-birth": "House Arryn",
+            "status": "Alive", 
+            "house-birth": "House Arryn", 
+            "id": "0", 
             "name": "Robin Arryn"
-        },
+        }, 
         {
-            "id": "1",
-            "status": "Alive",
-            "house-birth": "House Clegane",
+            "status": "Alive", 
+            "house-birth": "House Clegane", 
+            "id": "1", 
             "name": "Gregor Clegane"
-        },
+        }, 
         {
-            "id": "2",
-            "status": "Alive",
-            "house-birth": "House Clegane",
-            "group": "Brotherhood Without Banners",
-            "name": "Sandor Clegane"
-        },
+            "status": "Alive", 
+            "group": "Brotherhood Without Banners", 
+            "name": "Sandor Clegane", 
+            "house-birth": "House Clegane", 
+            "id": "2"
+        }, 
         {
-            "id": "3",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "3", 
             "name": "Drogon"
-        },
+        }, 
         {
-            "id": "4",
-            "status": "Alive",
-            "house-birth": "House Baratheon",
+            "status": "Alive", 
+            "house-birth": "House Baratheon", 
+            "id": "4", 
             "name": "Gendry"
-        },
+        }, 
         {
-            "id": "5",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "5", 
             "name": "Ghost"
-        },
+        }, 
         {
-            "id": "6",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "6", 
             "name": "Grey Worm"
-        },
+        }, 
         {
-            "id": "7",
-            "status": "Alive",
-            "house-birth": "House Greyjoy",
+            "status": "Alive", 
+            "house-birth": "House Greyjoy", 
+            "id": "7", 
             "name": "Aeron Greyjoy"
-        },
+        }, 
         {
-            "id": "8",
-            "status": "Alive",
-            "house-birth": "House Greyjoy",
+            "status": "Alive", 
+            "house-birth": "House Greyjoy", 
+            "id": "8", 
             "name": "Euron Greyjoy"
-        },
+        }, 
         {
-            "id": "9",
-            "status": "Alive",
-            "house-birth": "House Greyjoy",
+            "status": "Alive", 
+            "house-birth": "House Greyjoy", 
+            "id": "9", 
             "name": "Theon Greyjoy"
-        },
+        }, 
         {
-            "id": "10",
-            "status": "Alive",
-            "house-birth": "House Greyjoy",
+            "status": "Alive", 
+            "house-birth": "House Greyjoy", 
+            "id": "10", 
             "name": "Yara Greyjoy"
-        },
+        }, 
         {
-            "id": "11",
-            "status": "Alive",
-            "house-birth": "House Targaryen",
+            "status": "Alive", 
+            "house-birth": "House Targaryen", 
+            "id": "11", 
             "name": "Jon Snow"
-        },
+        }, 
         {
-            "id": "12",
-            "status": "Alive",
-            "house-birth": "House Lannister",
+            "status": "Alive", 
+            "house-birth": "House Lannister", 
+            "id": "12", 
             "name": "Cersei Lannister"
-        },
+        }, 
         {
-            "id": "13",
-            "status": "Alive",
-            "house-birth": "House Lannister",
+            "status": "Alive", 
+            "house-birth": "House Lannister", 
+            "id": "13", 
             "name": "Jaime Lannister"
-        },
+        }, 
         {
-            "id": "14",
-            "status": "Alive",
-            "house-birth": "House Lannister",
+            "status": "Alive", 
+            "house-birth": "House Lannister", 
+            "id": "14", 
             "name": "Tyrion Lannister"
-        },
+        }, 
         {
-            "id": "15",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "15", 
             "name": "Melisandre"
-        },
+        }, 
         {
-            "id": "16",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "16", 
             "name": "Missandei"
-        },
+        }, 
         {
-            "id": "17",
-            "status": "Alive",
-            "house-birth": "House Mormont",
+            "status": "Alive", 
+            "house-birth": "House Mormont", 
+            "id": "17", 
             "name": "Jorah Mormont"
-        },
+        }, 
         {
-            "id": "18",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "18", 
             "name": "Night King"
-        },
+        }, 
         {
-            "id": "19",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "19", 
             "name": "Nymeria"
-        },
+        }, 
         {
-            "id": "20",
-            "status": "Alive",
-            "house-birth": "House Payne",
+            "status": "Alive", 
+            "house-birth": "House Payne", 
+            "id": "20", 
             "name": "Ilyn Payne"
-        },
+        }, 
         {
-            "id": "21",
-            "status": "Alive",
-            "house-birth": "House Payne",
+            "status": "Alive", 
+            "house-birth": "House Payne", 
+            "id": "21", 
             "name": "Podrick Payne"
-        },
+        }, 
         {
-            "id": "22",
-            "status": "Alive",
-            "house-birth": "House Reed",
+            "status": "Alive", 
+            "house-birth": "House Reed", 
+            "id": "22", 
             "name": "Howland Reed"
-        },
+        }, 
         {
-            "id": "23",
-            "status": "Alive",
-            "house-birth": "House Reed",
+            "status": "Alive", 
+            "house-birth": "House Reed", 
+            "id": "23", 
             "name": "Meera Reed"
-        },
+        }, 
         {
-            "id": "24",
-            "status": "Alive",
+            "status": "Alive", 
+            "id": "24", 
             "name": "Rhaegal"
-        },
+        }, 
         {
-            "id": "25",
-            "status": "Alive",
-            "house-birth": "Sand Snakes",
+            "status": "Alive", 
+            "house-birth": "Sand Snakes", 
+            "id": "25", 
             "name": "Ellaria Sand"
-        },
+        }, 
         {
-            "id": "26",
-            "status": "Alive",
-            "house-birth": "House Stark",
+            "status": "Alive", 
+            "house-birth": "House Stark", 
+            "id": "26", 
             "name": "Arya Stark"
-        },
+        }, 
         {
-            "id": "27",
-            "status": "Alive",
-            "house-birth": "House Stark",
+            "status": "Alive", 
+            "house-birth": "House Stark", 
+            "id": "27", 
             "name": "Bran Stark"
-        },
+        }, 
         {
-            "id": "28",
-            "status": "Alive",
-            "house-birth": "House Stark",
+            "status": "Alive", 
+            "house-birth": "House Stark", 
+            "id": "28", 
             "name": "Sansa Stark"
-        },
+        }, 
         {
-            "id": "29",
-            "status": "Alive",
-            "house-birth": "House Targaryen",
+            "status": "Alive", 
+            "house-birth": "House Targaryen", 
+            "id": "29", 
             "name": "Daenerys Targaryen"
-        },
+        }, 
         {
-            "id": "30",
-            "status": "Alive",
-            "house-birth": "House Tarth",
+            "status": "Alive", 
+            "house-birth": "House Tarth", 
+            "id": "30", 
             "name": "Brienne of Tarth"
-        },
+        }, 
         {
-            "id": "31",
-            "status": "Alive",
-            "house-birth": "House Tully",
+            "status": "Alive", 
+            "house-birth": "House Tully", 
+            "id": "31", 
             "name": "Edmure Tully"
-        },
+        }, 
         {
-            "id": "32",
-            "status": "Deceased",
-            "house-birth": "House Arryn",
+            "status": "Deceased", 
+            "house-birth": "House Arryn", 
+            "id": "32", 
             "name": "Jon Arryn"
-        },
+        }, 
         {
-            "id": "33",
-            "status": "Deceased",
-            "house-marriage": "House Arryn",
-            "house-birth": "House Tully",
-            "name": "Lysa Arryn"
-        },
+            "status": "Deceased", 
+            "name": "Lysa Arryn", 
+            "house-marriage": "House Arryn", 
+            "house-birth": "House Tully", 
+            "id": "33"
+        }, 
         {
-            "id": "34",
-            "status": "Deceased",
-            "house-birth": "House Baelish",
-            "name": "Petyr Baelish",
-            "house-marriage": "House Arryn"
-        },
+            "status": "Deceased", 
+            "name": "Petyr Baelish", 
+            "house-marriage": "House Arryn", 
+            "house-birth": "House Baelish", 
+            "id": "34"
+        }, 
         {
-            "id": "35",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "35", 
             "name": "Joffrey Baratheon"
-        },
+        }, 
         {
-            "id": "36",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "36", 
             "name": "Myrcella Baratheon"
-        },
+        }, 
         {
-            "id": "37",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "37", 
             "name": "Robert Baratheon"
-        },
+        }, 
         {
-            "id": "38",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "38", 
             "name": "Shireen Baratheon"
-        },
+        }, 
         {
-            "id": "39",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "39", 
             "name": "Stannis Baratheon"
-        },
+        }, 
         {
-            "id": "40",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "40", 
             "name": "Tommen Baratheon"
-        },
+        }, 
         {
-            "id": "41",
-            "status": "Deceased",
-            "house-birth": "House Bolton",
+            "status": "Deceased", 
+            "house-birth": "House Bolton", 
+            "id": "41", 
             "name": "Ramsay Bolton"
-        },
+        }, 
         {
-            "id": "42",
-            "status": "Deceased",
-            "house-birth": "House Bolton",
+            "status": "Deceased", 
+            "house-birth": "House Bolton", 
+            "id": "42", 
             "name": "Roose Bolton"
-        },
+        }, 
         {
-            "id": "43",
-            "status": "Deceased",
-            "house-birth": "House Dayne",
+            "status": "Deceased", 
+            "house-birth": "House Dayne", 
+            "id": "43", 
             "name": "Arthur Dayne"
-        },
+        }, 
         {
-            "id": "44",
-            "status": "Deceased",
-            "house-marriage": "House Targaryen",
-            "name": "Drogo"
-        },
+            "status": "Deceased", 
+            "id": "44", 
+            "name": "Drogo", 
+            "house-marriage": "House Targaryen"
+        }, 
         {
-            "id": "45",
-            "status": "Deceased",
-            "house-birth": "House Frey",
+            "status": "Deceased", 
+            "house-birth": "House Frey", 
+            "id": "45", 
             "name": "Walder Frey"
-        },
+        }, 
         {
-            "id": "46",
-            "status": "Deceased",
-            "house-birth": "House Greyjoy",
+            "status": "Deceased", 
+            "house-birth": "House Greyjoy", 
+            "id": "46", 
             "name": "Balon Greyjoy"
-        },
+        }, 
         {
-            "id": "47",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "47", 
             "name": "Grey Wind"
-        },
+        }, 
         {
-            "id": "48",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "48", 
             "name": "High Sparrow"
-        },
+        }, 
         {
-            "id": "49",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "49", 
             "name": "Lady"
-        },
+        }, 
         {
-            "id": "50",
-            "status": "Deceased",
-            "house-birth": "House Lannister",
+            "status": "Deceased", 
+            "house-birth": "House Lannister", 
+            "id": "50", 
             "name": "Kevan Lannister"
-        },
+        }, 
         {
-            "id": "51",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "51", 
             "name": "Lancel Lannister"
-        },
+        }, 
         {
-            "id": "52",
-            "status": "Deceased",
-            "house-birth": "House Lannister",
+            "status": "Deceased", 
+            "house-birth": "House Lannister", 
+            "id": "52", 
             "name": "Tywin Lannister"
-        },
+        }, 
         {
-            "id": "53",
-            "status": "Deceased",
-            "house-birth": "House Martell",
-            "name": "Elia Martell",
-            "house-marriage": "House Targaryen"
-        },
+            "status": "Deceased", 
+            "name": "Elia Martell", 
+            "house-marriage": "House Targaryen", 
+            "house-birth": "House Martell", 
+            "id": "53"
+        }, 
         {
-            "id": "54",
-            "status": "Deceased",
-            "house-birth": "House Martell",
+            "status": "Deceased", 
+            "house-birth": "House Martell", 
+            "id": "54", 
             "name": "Oberyn Martell"
-        },
+        }, 
         {
-            "id": "55",
-            "status": "Deceased",
-            "house-birth": "House Mormont",
-            "group": "Night's Watch",
-            "name": "Jeor Mormont"
-        },
+            "status": "Deceased", 
+            "group": "Night's Watch", 
+            "name": "Jeor Mormont", 
+            "house-birth": "House Mormont", 
+            "id": "55"
+        }, 
         {
-            "id": "56",
-            "status": "Deceased",
-            "group": "Night's Watch",
+            "status": "Deceased", 
+            "group": "Night's Watch", 
+            "id": "56", 
             "name": "Olly"
-        },
+        }, 
         {
-            "id": "57",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "57", 
             "name": "Osha"
-        },
+        }, 
         {
-            "id": "58",
-            "status": "Deceased",
-            "group": "Free Folk",
+            "status": "Deceased", 
+            "group": "Free Folk", 
+            "id": "58", 
             "name": "Mance Rayder"
-        },
+        }, 
         {
-            "id": "59",
-            "status": "Deceased",
-            "house-birth": "House Reed",
+            "status": "Deceased", 
+            "house-birth": "House Reed", 
+            "id": "59", 
             "name": "Jojen Reed"
-        },
+        }, 
         {
-            "id": "60",
-            "status": "Deceased",
-            "house-birth": "Sand Snakes",
+            "status": "Deceased", 
+            "house-birth": "Sand Snakes", 
+            "id": "60", 
             "name": "Nymeria Sand"
-        },
+        }, 
         {
-            "id": "61",
-            "status": "Deceased",
-            "group": "Sand Snakes",
+            "status": "Deceased", 
+            "group": "Sand Snakes", 
+            "id": "61", 
             "name": "Obara Sand"
-        },
+        }, 
         {
-            "id": "62",
-            "status": "Deceased",
-            "group": "Sand Snakes",
+            "status": "Deceased", 
+            "group": "Sand Snakes", 
+            "id": "62", 
             "name": "Tyene Sand"
-        },
+        }, 
         {
-            "id": "63",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "63", 
             "name": "Shae"
-        },
+        }, 
         {
-            "id": "64",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "64", 
             "name": "Shaggydog"
-        },
+        }, 
         {
-            "id": "65",
-            "status": "Deceased",
-            "group": "House Stark",
+            "status": "Deceased", 
+            "group": "House Stark", 
+            "id": "65", 
             "name": "Benjen Stark"
-        },
+        }, 
         {
-            "id": "66",
-            "status": "Deceased",
-            "house-marriage": "House Stark",
-            "house-birth": "House Tully",
-            "name": "Catelyn Stark"
-        },
+            "status": "Deceased", 
+            "name": "Catelyn Stark", 
+            "house-marriage": "House Stark", 
+            "house-birth": "House Tully", 
+            "id": "66"
+        }, 
         {
-            "id": "67",
-            "status": "Deceased",
-            "house-birth": "House Stark",
+            "status": "Deceased", 
+            "house-birth": "House Stark", 
+            "id": "67", 
             "name": "Eddard Stark"
-        },
+        }, 
         {
-            "id": "68",
-            "status": "Deceased",
-            "house-birth": "House Stark",
-            "name": "Lyanna Stark",
-            "house-marriage": "House Targaryen"
-        },
+            "status": "Deceased", 
+            "name": "Lyanna Stark", 
+            "house-marriage": "House Targaryen", 
+            "house-birth": "House Stark", 
+            "id": "68"
+        }, 
         {
-            "id": "69",
-            "status": "Deceased",
-            "house-birth": "House Stark",
+            "status": "Deceased", 
+            "house-birth": "House Stark", 
+            "id": "69", 
             "name": "Rickard Stark"
-        },
+        }, 
         {
-            "id": "70",
-            "status": "Deceased",
-            "house-birth": "House Stark",
+            "status": "Deceased", 
+            "house-birth": "House Stark", 
+            "id": "70", 
             "name": "Rickon Stark"
-        },
+        }, 
         {
-            "id": "71",
-            "status": "Deceased",
-            "house-birth": "House Stark",
+            "status": "Deceased", 
+            "house-birth": "House Stark", 
+            "id": "71", 
             "name": "Robb Stark"
-        },
+        }, 
         {
-            "id": "72",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "72", 
             "name": "Summer"
-        },
+        }, 
         {
-            "id": "73",
-            "status": "Deceased",
-            "house-birth": "House Thorne",
-            "group": "Night's Watch",
-            "name": "Alliser Thorne"
-        },
+            "status": "Deceased", 
+            "group": "Night's Watch", 
+            "name": "Alliser Thorne", 
+            "house-birth": "House Thorne", 
+            "id": "73"
+        }, 
         {
-            "id": "74",
-            "status": "Uncertain",
-            "house-birth": "House Dondarrion",
-            "group": "Brotherhood Without Banners",
-            "name": "Beric Dondarrion"
-        },
+            "status": "Uncertain", 
+            "group": "Brotherhood Without Banners", 
+            "name": "Beric Dondarrion", 
+            "house-birth": "House Dondarrion", 
+            "id": "74"
+        }, 
         {
-            "id": "75",
-            "status": "Alive",
-            "group": "Free Folk",
+            "status": "Alive", 
+            "group": "Free Folk", 
+            "id": "75", 
             "name": "Tormund"
-        },
+        }, 
         {
-            "id": "76",
-            "status": "Deceased",
-            "house-birth": "House Targaryen",
+            "status": "Deceased", 
+            "house-birth": "House Targaryen", 
+            "id": "76", 
             "name": "Rhaegar Targaryen"
-        },
+        }, 
         {
-            "id": "77",
-            "status": "Deceased",
-            "house-birth": "House Targaryen",
+            "status": "Deceased", 
+            "house-birth": "House Targaryen", 
+            "id": "77", 
             "name": "Aerys II Targaryen"
-        },
+        }, 
         {
-            "id": "78",
-            "status": "Deceased",
+            "status": "Deceased", 
+            "id": "78", 
             "name": "Viserion"
-        },
+        }, 
         {
-            "id": "79",
-            "status": "Deceased",
-            "house-birth": "House Baratheon",
+            "status": "Deceased", 
+            "house-birth": "House Baratheon", 
+            "id": "79", 
             "name": "Renly Baratheon"
-        },
+        }, 
         {
-            "id": "80",
-            "status": "Alive",
-            "house-birth": "House Stark",
+            "status": "Alive", 
+            "house-birth": "House Stark", 
+            "id": "80", 
             "name": "Brandon Stark"
-        },
+        }, 
         {
-            "id": "81",
-            "status": "Deceased",
-            "house-birth": "House Tyrell",
-            "name": "Margaery Tyrell",
-            "house-marriage": "House Baratheon"
-        },
+            "status": "Deceased", 
+            "name": "Margaery Tyrell", 
+            "house-marriage": "House Baratheon", 
+            "house-birth": "House Tyrell", 
+            "id": "81"
+        }, 
         {
-            "id": "82",
-            "status": "Deceased",
-            "house-birth": "House Targaryen",
+            "status": "Deceased", 
+            "house-birth": "House Targaryen", 
+            "id": "82", 
             "name": "Rhaella Targaryen"
-        },
+        }, 
         {
-            "id": "83",
-            "status": "Deceased",
-            "house-marriage": "House Tyrell",
-            "house-birth": "House Redwyne",
-            "name": "Olenna Tyrell"
-        },
+            "status": "Deceased", 
+            "name": "Olenna Tyrell", 
+            "house-marriage": "House Tyrell", 
+            "house-birth": "House Redwyne", 
+            "id": "83"
+        }, 
         {
-            "id": "84",
-            "name": "House Arryn"
-        },
-        {
-            "id": "85",
-            "name": "House Clegane"
-        },
-        {
-            "id": "86",
-            "name": "Brotherhood Without Banners"
-        },
-        {
-            "id": "87",
-            "name": "House Baratheon"
-        },
-        {
-            "id": "88",
-            "name": "House Greyjoy"
-        },
-        {
-            "id": "89",
-            "name": "House Targaryen"
-        },
-        {
-            "id": "90",
+            "id": "84", 
             "name": "House Lannister"
-        },
+        }, 
         {
-            "id": "91",
-            "name": "House Mormont"
-        },
-        {
-            "id": "92",
-            "name": "House Payne"
-        },
-        {
-            "id": "93",
-            "name": "House Reed"
-        },
-        {
-            "id": "94",
-            "name": "Sand Snakes"
-        },
-        {
-            "id": "95",
-            "name": "House Stark"
-        },
-        {
-            "id": "96",
-            "name": "House Tarth"
-        },
-        {
-            "id": "97",
-            "name": "House Tully"
-        },
-        {
-            "id": "98",
-            "name": "House Baelish"
-        },
-        {
-            "id": "99",
-            "name": "House Bolton"
-        },
-        {
-            "id": "100",
+            "id": "85", 
             "name": "House Dayne"
-        },
+        }, 
         {
-            "id": "101",
-            "name": "House Frey"
-        },
+            "id": "86", 
+            "name": "Sand Snakes"
+        }, 
         {
-            "id": "102",
-            "name": "House Martell"
-        },
-        {
-            "id": "103",
-            "name": "Night's Watch"
-        },
-        {
-            "id": "104",
-            "name": "Free Folk"
-        },
-        {
-            "id": "105",
-            "name": "House Thorne"
-        },
-        {
-            "id": "106",
+            "id": "87", 
             "name": "House Dondarrion"
-        },
+        }, 
         {
-            "id": "107",
-            "name": "House Tyrell"
-        },
-        {
-            "id": "108",
+            "id": "88", 
             "name": "House Redwyne"
+        }, 
+        {
+            "id": "89", 
+            "name": "House Payne"
+        }, 
+        {
+            "id": "90", 
+            "name": "House Arryn"
+        }, 
+        {
+            "id": "91", 
+            "name": "House Mormont"
+        }, 
+        {
+            "id": "92", 
+            "name": "House Tully"
+        }, 
+        {
+            "id": "93", 
+            "name": "House Frey"
+        }, 
+        {
+            "id": "94", 
+            "name": "House Stark"
+        }, 
+        {
+            "id": "95", 
+            "name": "Free Folk"
+        }, 
+        {
+            "id": "96", 
+            "name": "House Tyrell"
+        }, 
+        {
+            "id": "97", 
+            "name": "Brotherhood Without Banners"
+        }, 
+        {
+            "id": "98", 
+            "name": "House Baratheon"
+        }, 
+        {
+            "id": "99", 
+            "name": "Night's Watch"
+        }, 
+        {
+            "id": "100", 
+            "name": "House Tarth"
+        }, 
+        {
+            "id": "101", 
+            "name": "House Martell"
+        }, 
+        {
+            "id": "102", 
+            "name": "House Clegane"
+        }, 
+        {
+            "id": "103", 
+            "name": "House Thorne"
+        }, 
+        {
+            "id": "104", 
+            "name": "House Bolton"
+        }, 
+        {
+            "id": "105", 
+            "name": "House Greyjoy"
+        }, 
+        {
+            "id": "106", 
+            "name": "House Targaryen"
+        }, 
+        {
+            "id": "107", 
+            "name": "House Baelish"
+        }, 
+        {
+            "id": "108", 
+            "name": "House Reed"
         }
-    ],
+    ], 
     "edge": [
         {
-            "source": "73",
-            "target": "11",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "56",
-            "target": "11",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "33",
-            "target": "32",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "34",
-            "target": "33",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "26",
-            "target": "34",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "83",
-            "target": "35",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "25",
-            "target": "36",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "15",
-            "target": "38",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "30",
-            "target": "39",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "41",
-            "target": "42",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "67",
-            "target": "43",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "29",
-            "target": "44",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "26",
-            "target": "45",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "8",
-            "target": "46",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "12",
-            "target": "48",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "67",
-            "target": "49",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "12",
-            "target": "50",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "12",
-            "target": "51",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "14",
-            "target": "52",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "1",
-            "target": "53",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "1",
-            "target": "54",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "11",
-            "target": "56",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "41",
-            "target": "57",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "11",
-            "target": "58",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "8",
-            "target": "60",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "8",
-            "target": "61",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "12",
-            "target": "62",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "14",
-            "target": "63",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "20",
-            "target": "67",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "77",
-            "target": "69",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "41",
-            "target": "70",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "42",
-            "target": "71",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "11",
-            "target": "73",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "1",
-            "target": "74",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "2",
-            "target": "74",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "37",
-            "target": "76",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "13",
-            "target": "77",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "18",
-            "target": "78",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "15",
-            "target": "79",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "12",
-            "target": "81",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "13",
-            "target": "83",
-            "relation": "killed",
-            "value": 40,
-            "style": "red"
-        },
-        {
-            "source": "32",
-            "target": "0",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "33",
-            "target": "0",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "2",
-            "target": "1",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "24",
-            "target": "3",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "78",
-            "target": "3",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "37",
-            "target": "4",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "47",
-            "target": "5",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "49",
-            "target": "5",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "19",
-            "target": "5",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "72",
-            "target": "5",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "64",
-            "target": "5",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "46",
-            "target": "7",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "8",
-            "target": "7",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "46",
-            "target": "8",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "46",
-            "target": "9",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "10",
-            "target": "9",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "46",
-            "target": "10",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "76",
-            "target": "11",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "68",
-            "target": "11",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "11",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "11",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "26",
-            "target": "11",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "27",
-            "target": "11",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "70",
-            "target": "11",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "52",
-            "target": "12",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "13",
-            "target": "12",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "14",
-            "target": "12",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "52",
-            "target": "13",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "14",
-            "target": "13",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "52",
-            "target": "14",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "55",
-            "target": "17",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "47",
-            "target": "19",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "49",
-            "target": "19",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "72",
-            "target": "19",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "64",
-            "target": "19",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "22",
-            "target": "23",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "59",
-            "target": "23",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "78",
-            "target": "24",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "26",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "26",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "26",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "26",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "27",
-            "target": "26",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "27",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "27",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "27",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "27",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "28",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "28",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "28",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "77",
-            "target": "29",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "82",
-            "target": "29",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "76",
-            "target": "29",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "66",
-            "target": "31",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "33",
-            "target": "31",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "66",
-            "target": "33",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "13",
-            "target": "35",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "37",
-            "target": "35",
-            "type": "legal",
-            "relation": "father",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "12",
-            "target": "35",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "36",
-            "target": "35",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "40",
-            "target": "35",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "13",
-            "target": "36",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "37",
-            "target": "36",
-            "type": "legal",
-            "relation": "father",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "12",
-            "target": "36",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "40",
-            "target": "36",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "39",
-            "target": "37",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "79",
-            "target": "37",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "39",
-            "target": "38",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "79",
-            "target": "39",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "13",
-            "target": "40",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "37",
-            "target": "40",
-            "type": "legal",
-            "relation": "father",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "12",
-            "target": "40",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "42",
-            "target": "41",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "49",
-            "target": "47",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "72",
-            "target": "47",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "64",
-            "target": "47",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "72",
-            "target": "49",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "64",
-            "target": "49",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "52",
-            "target": "50",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "50",
-            "target": "51",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "54",
-            "target": "53",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "22",
-            "target": "59",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "54",
-            "target": "60",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "61",
-            "target": "60",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "62",
-            "target": "60",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "54",
-            "target": "61",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "62",
-            "target": "61",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "54",
-            "target": "62",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "25",
-            "target": "62",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "72",
-            "target": "64",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "69",
-            "target": "65",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "67",
-            "target": "65",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "68",
-            "target": "65",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "69",
-            "target": "67",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "68",
-            "target": "67",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "69",
-            "target": "68",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "70",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "70",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "70",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "70",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "26",
-            "target": "70",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "71",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "71",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "77",
-            "target": "76",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "82",
-            "target": "76",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "82",
-            "target": "77",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "80",
-            "type": "biological",
-            "relation": "father",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "80",
-            "type": "biological",
-            "relation": "mother",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "71",
-            "target": "80",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "80",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "26",
-            "target": "80",
-            "type": "biological",
-            "relation": "sibling",
-            "value": 8,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "6",
-            "target": "16",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "11",
-            "target": "29",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "14",
-            "target": "63",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "15",
-            "target": "39",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "25",
-            "target": "54",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "52",
-            "target": "63",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "12",
-            "target": "13",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "33",
-            "target": "34",
-            "relation": "lover",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "12",
-            "target": "37",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "14",
-            "target": "28",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "28",
-            "target": "41",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "29",
-            "target": "44",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "32",
-            "target": "33",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "33",
-            "target": "34",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "35",
-            "target": "81",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "40",
-            "target": "81",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "53",
-            "target": "76",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "66",
-            "target": "67",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "68",
-            "target": "76",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "77",
-            "target": "82",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "directed": "false",
-            "source": "79",
-            "target": "81",
-            "relation": "spouse",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "3",
-            "target": "29",
-            "type": "dragon",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "78",
-            "target": "29",
-            "type": "dragon",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "4",
-            "target": "11",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "5",
-            "target": "11",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "9",
-            "target": "10",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "10",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "15",
-            "target": "11",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "15",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "19",
-            "target": "26",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "21",
-            "target": "30",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "24",
-            "target": "29",
-            "type": "dragon",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "47",
-            "target": "71",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "49",
-            "target": "28",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "64",
-            "target": "70",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "72",
-            "target": "27",
-            "type": "direwolf",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "75",
-            "target": "11",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "22",
-            "target": "67",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "17",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "16",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "6",
-            "target": "29",
-            "type": "oath",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "1",
-            "target": "37",
-            "type": "kingsguard",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "1",
-            "target": "35",
-            "type": "kingsguard",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "1",
-            "target": "40",
-            "type": "kingsguard",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "1",
-            "target": "12",
-            "type": "queensquard",
-            "relation": "allegiance"
-        },
-        {
-            "source": "2",
-            "target": "37",
-            "type": "kingsguard",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "2",
-            "target": "35",
-            "type": "kingsguard",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "14",
-            "target": "29",
-            "type": "hand",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "37",
-            "type": "hand",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "20",
-            "target": "37",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "20",
-            "target": "35",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "23",
-            "target": "27",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "59",
-            "target": "27",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "25",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "30",
-            "target": "66",
-            "type": "oath",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "32",
-            "target": "37",
-            "type": "hand",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "43",
-            "target": "76",
-            "type": "hand",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "42",
-            "target": "45",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "45",
-            "target": "52",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "46",
-            "target": "12",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "57",
-            "target": "67",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "9",
-            "target": "67",
-            "type": "ward",
-            "relation": "allegiance",
-            "value": 16,
-            "style": "black"
-        },
-        {
-            "source": "83",
-            "target": "29",
-            "type": "pledge",
-            "relation": "allegiance",
-            "value": 24,
-            "style": "black"
-        },
-        {
-            "source": "78",
-            "target": "18",
-            "type": "dragon",
-            "relation": "allegiance",
-            "value": 8,
-            "style": "blue"
-        },
-        {
-            "source": "0",
-            "target": "84",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "1",
-            "target": "85",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "2",
-            "target": "86",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "2",
-            "target": "85",
-            "type": "house-birth",
-            "value": 2,
-            "style": "black"
-        },
-        {
-            "source": "4",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "7",
-            "target": "88",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "8",
-            "target": "88",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "9",
-            "target": "88",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "10",
-            "target": "88",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "11",
-            "target": "89",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "12",
-            "target": "90",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "13",
-            "target": "90",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "14",
-            "target": "90",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "17",
-            "target": "91",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "20",
-            "target": "92",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "21",
-            "target": "92",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "22",
-            "target": "93",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "23",
-            "target": "93",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "25",
-            "target": "94",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "26",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "27",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "28",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "29",
-            "target": "89",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "30",
-            "target": "96",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "31",
-            "target": "97",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "32",
-            "target": "84",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "33",
-            "target": "84",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "33",
-            "target": "97",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "34",
-            "target": "84",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "34",
-            "target": "98",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "35",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "36",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "37",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "38",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "39",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "40",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "41",
-            "target": "99",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "42",
-            "target": "99",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "43",
-            "target": "100",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "44",
-            "target": "89",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "45",
-            "target": "101",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "46",
-            "target": "88",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "50",
-            "target": "90",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "52",
-            "target": "90",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "53",
-            "target": "89",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "53",
-            "target": "102",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "54",
-            "target": "102",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "55",
-            "target": "103",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "55",
-            "target": "91",
-            "type": "house-birth",
-            "value": 2,
-            "style": "black"
-        },
-        {
-            "source": "56",
-            "target": "103",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "58",
-            "target": "104",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "59",
-            "target": "93",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "60",
-            "target": "94",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "61",
-            "target": "94",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "62",
-            "target": "94",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "65",
-            "target": "95",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "95",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "66",
-            "target": "97",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "67",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "68",
-            "target": "89",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "68",
-            "target": "95",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "69",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "70",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "71",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "73",
-            "target": "103",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "73",
-            "target": "105",
-            "type": "house-birth",
-            "value": 2,
-            "style": "black"
-        },
-        {
-            "source": "74",
-            "target": "86",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "74",
-            "target": "106",
-            "type": "house-birth",
-            "value": 2,
-            "style": "black"
-        },
-        {
-            "source": "75",
-            "target": "104",
-            "type": "group",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "76",
-            "target": "89",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "77",
-            "target": "89",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "79",
-            "target": "87",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "80",
-            "target": "95",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "81",
-            "target": "87",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "81",
-            "target": "107",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
-        },
-        {
-            "source": "82",
-            "target": "89",
-            "type": "house-birth",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "83",
-            "target": "107",
-            "type": "house-marriage",
-            "value": 1,
-            "style": "black"
-        },
-        {
-            "source": "83",
-            "target": "108",
-            "type": "house-birth",
-            "value": 4,
-            "style": "black"
+            "target": "11", 
+            "value": 40, 
+            "source": "73", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "11", 
+            "value": 40, 
+            "source": "56", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "32", 
+            "value": 40, 
+            "source": "33", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "33", 
+            "value": 40, 
+            "source": "34", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "34", 
+            "value": 40, 
+            "source": "26", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "35", 
+            "value": 40, 
+            "source": "83", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "36", 
+            "value": 40, 
+            "source": "25", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "38", 
+            "value": 40, 
+            "source": "15", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "39", 
+            "value": 40, 
+            "source": "30", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "42", 
+            "value": 40, 
+            "source": "41", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "43", 
+            "value": 40, 
+            "source": "67", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "44", 
+            "value": 40, 
+            "source": "29", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "45", 
+            "value": 40, 
+            "source": "26", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "46", 
+            "value": 40, 
+            "source": "8", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "48", 
+            "value": 40, 
+            "source": "12", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "49", 
+            "value": 40, 
+            "source": "67", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "50", 
+            "value": 40, 
+            "source": "12", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "51", 
+            "value": 40, 
+            "source": "12", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "52", 
+            "value": 40, 
+            "source": "14", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "53", 
+            "value": 40, 
+            "source": "1", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "54", 
+            "value": 40, 
+            "source": "1", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "56", 
+            "value": 40, 
+            "source": "11", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "57", 
+            "value": 40, 
+            "source": "41", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "58", 
+            "value": 40, 
+            "source": "11", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "60", 
+            "value": 40, 
+            "source": "8", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "61", 
+            "value": 40, 
+            "source": "8", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "62", 
+            "value": 40, 
+            "source": "12", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "63", 
+            "value": 40, 
+            "source": "14", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "67", 
+            "value": 40, 
+            "source": "20", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "69", 
+            "value": 40, 
+            "source": "77", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "70", 
+            "value": 40, 
+            "source": "41", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "71", 
+            "value": 40, 
+            "source": "42", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "73", 
+            "value": 40, 
+            "source": "11", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "74", 
+            "value": 40, 
+            "source": "1", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "74", 
+            "value": 40, 
+            "source": "2", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "76", 
+            "value": 40, 
+            "source": "37", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "77", 
+            "value": 40, 
+            "source": "13", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "78", 
+            "value": 40, 
+            "source": "18", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "79", 
+            "value": 40, 
+            "source": "15", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "81", 
+            "value": 40, 
+            "source": "12", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "83", 
+            "value": 40, 
+            "source": "13", 
+            "stroke": "#c52507", 
+            "relation": "killed", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "0", 
+            "value": 4, 
+            "source": "32", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "0", 
+            "value": 4, 
+            "source": "33", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "1", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "2", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "3", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "24", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "3", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "78", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "4", 
+            "value": 4, 
+            "source": "37", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "5", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "47", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "5", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "49", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "5", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "19", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "5", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "5", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "64", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "7", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "46", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "7", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "8", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "8", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "46", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "9", 
+            "value": 4, 
+            "source": "46", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "9", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "10", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "10", 
+            "value": 4, 
+            "source": "46", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "11", 
+            "value": 4, 
+            "source": "76", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "11", 
+            "value": 4, 
+            "source": "68", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "11", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "11", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "28", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "11", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "26", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "11", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "27", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "11", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "70", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "12", 
+            "value": 4, 
+            "source": "52", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "12", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "13", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "12", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "14", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "13", 
+            "value": 4, 
+            "source": "52", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "13", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "14", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "14", 
+            "value": 4, 
+            "source": "52", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "17", 
+            "value": 4, 
+            "source": "55", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "19", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "47", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "19", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "49", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "19", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "19", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "64", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "23", 
+            "value": 4, 
+            "source": "22", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "23", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "59", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "24", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "78", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "26", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "26", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "26", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "26", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "28", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "26", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "27", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "27", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "27", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "27", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "27", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "28", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "28", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "28", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "28", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "29", 
+            "value": 4, 
+            "source": "77", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "29", 
+            "value": 4, 
+            "source": "82", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "29", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "76", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "31", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "31", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "33", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "33", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "35", 
+            "value": 4, 
+            "source": "13", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "35", 
+            "value": 8, 
+            "source": "37", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "20,10,5,5,5,10", 
+            "type": "legal"
+        }, 
+        {
+            "target": "35", 
+            "value": 4, 
+            "source": "12", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "35", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "36", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "35", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "40", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "36", 
+            "value": 4, 
+            "source": "13", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "36", 
+            "value": 8, 
+            "source": "37", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "20,10,5,5,5,10", 
+            "type": "legal"
+        }, 
+        {
+            "target": "36", 
+            "value": 4, 
+            "source": "12", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "36", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "40", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "37", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "39", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "37", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "79", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "38", 
+            "value": 4, 
+            "source": "39", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "39", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "79", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "40", 
+            "value": 4, 
+            "source": "13", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "40", 
+            "value": 8, 
+            "source": "37", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "20,10,5,5,5,10", 
+            "type": "legal"
+        }, 
+        {
+            "target": "40", 
+            "value": 4, 
+            "source": "12", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "41", 
+            "value": 4, 
+            "source": "42", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "47", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "49", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "47", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "47", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "64", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "49", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "49", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "64", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "50", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "52", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "51", 
+            "value": 4, 
+            "source": "50", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "53", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "54", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "59", 
+            "value": 4, 
+            "source": "22", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "60", 
+            "value": 4, 
+            "source": "54", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "60", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "61", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "60", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "62", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "61", 
+            "value": 4, 
+            "source": "54", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "61", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "62", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "62", 
+            "value": 4, 
+            "source": "54", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "62", 
+            "value": 4, 
+            "source": "25", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "64", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "65", 
+            "value": 4, 
+            "source": "69", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "65", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "65", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "68", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "67", 
+            "value": 4, 
+            "source": "69", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "67", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "68", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "68", 
+            "value": 4, 
+            "source": "69", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "70", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "70", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "70", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "70", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "28", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "70", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "26", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "71", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "71", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "76", 
+            "value": 4, 
+            "source": "77", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "76", 
+            "value": 4, 
+            "source": "82", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "77", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "82", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "target": "80", 
+            "value": 4, 
+            "source": "67", 
+            "stroke": "#839098", 
+            "relation": "father", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "target": "80", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#839098", 
+            "relation": "mother", 
+            "stroke-dasharray": "0", 
+            "type": "biological"
+        }, 
+        {
+            "directed": "false", 
+            "target": "80", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "71", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "80", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "28", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "80", 
+            "type": "biological", 
+            "value": 8, 
+            "source": "26", 
+            "stroke": "#839098", 
+            "relation": "sibling", 
+            "stroke-dasharray": "5,5"
+        }, 
+        {
+            "directed": "false", 
+            "target": "16", 
+            "value": 16, 
+            "source": "6", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "29", 
+            "value": 16, 
+            "source": "11", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "63", 
+            "value": 16, 
+            "source": "14", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "39", 
+            "value": 16, 
+            "source": "15", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "54", 
+            "value": 16, 
+            "source": "25", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "63", 
+            "value": 16, 
+            "source": "52", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "13", 
+            "value": 16, 
+            "source": "12", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "34", 
+            "value": 16, 
+            "source": "33", 
+            "stroke": "#913ccd", 
+            "relation": "lover", 
+            "stroke-dasharray": "10,10"
+        }, 
+        {
+            "directed": "false", 
+            "target": "37", 
+            "value": 4, 
+            "source": "12", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "28", 
+            "value": 4, 
+            "source": "14", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "41", 
+            "value": 4, 
+            "source": "28", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "44", 
+            "value": 4, 
+            "source": "29", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "33", 
+            "value": 4, 
+            "source": "32", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "34", 
+            "value": 4, 
+            "source": "33", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "81", 
+            "value": 4, 
+            "source": "35", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "81", 
+            "value": 4, 
+            "source": "40", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "76", 
+            "value": 4, 
+            "source": "53", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "67", 
+            "value": 4, 
+            "source": "66", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "76", 
+            "value": 4, 
+            "source": "68", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "82", 
+            "value": 4, 
+            "source": "77", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "directed": "false", 
+            "target": "81", 
+            "value": 4, 
+            "source": "79", 
+            "stroke": "#913ccd", 
+            "relation": "spouse", 
+            "stroke-dasharray": "0"
+        }, 
+        {
+            "target": "29", 
+            "value": 8, 
+            "source": "3", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "dragon"
+        }, 
+        {
+            "target": "29", 
+            "value": 8, 
+            "source": "78", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "dragon"
+        }, 
+        {
+            "target": "11", 
+            "value": 24, 
+            "source": "4", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "11", 
+            "value": 8, 
+            "source": "5", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "10", 
+            "value": 24, 
+            "source": "9", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "10", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "11", 
+            "value": 24, 
+            "source": "15", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "15", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "26", 
+            "value": 8, 
+            "source": "19", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "30", 
+            "value": 24, 
+            "source": "21", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 8, 
+            "source": "24", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "dragon"
+        }, 
+        {
+            "target": "71", 
+            "value": 8, 
+            "source": "47", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "28", 
+            "value": 8, 
+            "source": "49", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "70", 
+            "value": 8, 
+            "source": "64", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "27", 
+            "value": 8, 
+            "source": "72", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "direwolf"
+        }, 
+        {
+            "target": "11", 
+            "value": 24, 
+            "source": "75", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "67", 
+            "value": 24, 
+            "source": "22", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "17", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "16", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 16, 
+            "source": "6", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "oath"
+        }, 
+        {
+            "target": "37", 
+            "value": 16, 
+            "source": "1", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "kingsguard"
+        }, 
+        {
+            "target": "35", 
+            "value": 16, 
+            "source": "1", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "kingsguard"
+        }, 
+        {
+            "target": "40", 
+            "value": 16, 
+            "source": "1", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "kingsguard"
+        }, 
+        {
+            "source": "1", 
+            "target": "12", 
+            "relation": "allegiance", 
+            "type": "queensquard"
+        }, 
+        {
+            "target": "37", 
+            "value": 16, 
+            "source": "2", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "kingsguard"
+        }, 
+        {
+            "target": "35", 
+            "value": 16, 
+            "source": "2", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "kingsguard"
+        }, 
+        {
+            "target": "29", 
+            "value": 16, 
+            "source": "14", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "hand"
+        }, 
+        {
+            "target": "37", 
+            "value": 16, 
+            "source": "67", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "hand"
+        }, 
+        {
+            "target": "37", 
+            "value": 24, 
+            "source": "20", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "35", 
+            "value": 24, 
+            "source": "20", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "27", 
+            "value": 24, 
+            "source": "23", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "27", 
+            "value": 24, 
+            "source": "59", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "25", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "66", 
+            "value": 16, 
+            "source": "30", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "oath"
+        }, 
+        {
+            "target": "37", 
+            "value": 16, 
+            "source": "32", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "hand"
+        }, 
+        {
+            "target": "76", 
+            "value": 16, 
+            "source": "43", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "hand"
+        }, 
+        {
+            "target": "45", 
+            "value": 24, 
+            "source": "42", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "52", 
+            "value": 24, 
+            "source": "45", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "12", 
+            "value": 24, 
+            "source": "46", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "67", 
+            "value": 24, 
+            "source": "57", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "67", 
+            "value": 16, 
+            "source": "9", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "ward"
+        }, 
+        {
+            "target": "29", 
+            "value": 24, 
+            "source": "83", 
+            "stroke": "#98cb4a", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "10,10", 
+            "type": "pledge"
+        }, 
+        {
+            "target": "18", 
+            "value": 8, 
+            "source": "78", 
+            "stroke": "#5481e6", 
+            "relation": "allegiance", 
+            "stroke-dasharray": "0", 
+            "type": "dragon"
+        }, 
+        {
+            "source": "56", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "99", 
+            "value": 1
+        }, 
+        {
+            "source": "77", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "42", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "104", 
+            "value": 1
+        }, 
+        {
+            "source": "43", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "85", 
+            "value": 1
+        }, 
+        {
+            "source": "60", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "86", 
+            "value": 1
+        }, 
+        {
+            "source": "61", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "86", 
+            "value": 1
+        }, 
+        {
+            "source": "62", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "86", 
+            "value": 1
+        }, 
+        {
+            "source": "53", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "53", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "101", 
+            "value": 4
+        }, 
+        {
+            "source": "66", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "66", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "92", 
+            "value": 4
+        }, 
+        {
+            "source": "67", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "68", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "68", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 4
+        }, 
+        {
+            "source": "69", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "80", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "52", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "84", 
+            "value": 1
+        }, 
+        {
+            "source": "25", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "86", 
+            "value": 1
+        }, 
+        {
+            "source": "26", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "27", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "20", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "89", 
+            "value": 1
+        }, 
+        {
+            "source": "21", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "89", 
+            "value": 1
+        }, 
+        {
+            "source": "22", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "108", 
+            "value": 1
+        }, 
+        {
+            "source": "23", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "108", 
+            "value": 1
+        }, 
+        {
+            "source": "46", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "105", 
+            "value": 1
+        }, 
+        {
+            "source": "44", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "45", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "93", 
+            "value": 1
+        }, 
+        {
+            "source": "28", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "29", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "40", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "41", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "104", 
+            "value": 1
+        }, 
+        {
+            "source": "1", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "102", 
+            "value": 1
+        }, 
+        {
+            "source": "0", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "90", 
+            "value": 1
+        }, 
+        {
+            "source": "2", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "97", 
+            "value": 1
+        }, 
+        {
+            "source": "2", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "102", 
+            "value": 2
+        }, 
+        {
+            "source": "81", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "81", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "96", 
+            "value": 4
+        }, 
+        {
+            "source": "4", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "7", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "105", 
+            "value": 1
+        }, 
+        {
+            "source": "9", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "105", 
+            "value": 1
+        }, 
+        {
+            "source": "8", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "105", 
+            "value": 1
+        }, 
+        {
+            "source": "82", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "83", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "96", 
+            "value": 1
+        }, 
+        {
+            "source": "83", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "88", 
+            "value": 4
+        }, 
+        {
+            "source": "39", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "65", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "76", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "75", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "95", 
+            "value": 1
+        }, 
+        {
+            "source": "38", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "73", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "99", 
+            "value": 1
+        }, 
+        {
+            "source": "73", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "103", 
+            "value": 2
+        }, 
+        {
+            "source": "71", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "70", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "94", 
+            "value": 1
+        }, 
+        {
+            "source": "79", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "58", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "95", 
+            "value": 1
+        }, 
+        {
+            "source": "11", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "106", 
+            "value": 1
+        }, 
+        {
+            "source": "10", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "105", 
+            "value": 1
+        }, 
+        {
+            "source": "13", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "84", 
+            "value": 1
+        }, 
+        {
+            "source": "12", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "84", 
+            "value": 1
+        }, 
+        {
+            "source": "59", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "108", 
+            "value": 1
+        }, 
+        {
+            "source": "14", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "84", 
+            "value": 1
+        }, 
+        {
+            "source": "17", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "91", 
+            "value": 1
+        }, 
+        {
+            "source": "33", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "90", 
+            "value": 1
+        }, 
+        {
+            "source": "33", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "92", 
+            "value": 4
+        }, 
+        {
+            "source": "32", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "90", 
+            "value": 1
+        }, 
+        {
+            "source": "31", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "92", 
+            "value": 1
+        }, 
+        {
+            "source": "30", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "100", 
+            "value": 1
+        }, 
+        {
+            "source": "37", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "36", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "35", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "98", 
+            "value": 1
+        }, 
+        {
+            "source": "34", 
+            "stroke": "black", 
+            "type": "house-marriage", 
+            "target": "90", 
+            "value": 1
+        }, 
+        {
+            "source": "34", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "107", 
+            "value": 4
+        }, 
+        {
+            "source": "55", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "99", 
+            "value": 1
+        }, 
+        {
+            "source": "55", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "91", 
+            "value": 2
+        }, 
+        {
+            "source": "74", 
+            "stroke": "black", 
+            "type": "group", 
+            "target": "97", 
+            "value": 1
+        }, 
+        {
+            "source": "74", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "87", 
+            "value": 2
+        }, 
+        {
+            "source": "54", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "101", 
+            "value": 1
+        }, 
+        {
+            "source": "50", 
+            "stroke": "black", 
+            "type": "house-birth", 
+            "target": "84", 
+            "value": 1
         }
     ]
 }
