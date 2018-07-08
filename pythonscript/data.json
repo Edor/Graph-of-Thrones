@@ -1,0 +1,1822 @@
+{
+    "node": [
+        {
+            "id": "0",
+            "status": "Alive",
+            "house-birth": "House Arryn",
+            "name": "Robin Arryn"
+        },
+        {
+            "id": "1",
+            "status": "Alive",
+            "house-birth": "House Clegane",
+            "name": "Gregor Clegane"
+        },
+        {
+            "id": "2",
+            "status": "Alive",
+            "house-birth": "House Clegane",
+            "group": "Brotherhood Without Banners",
+            "name": "Sandor Clegane"
+        },
+        {
+            "id": "3",
+            "status": "Alive",
+            "name": "Drogon"
+        },
+        {
+            "id": "4",
+            "status": "Alive",
+            "house-birth": "House Baratheon",
+            "name": "Gendry"
+        },
+        {
+            "id": "5",
+            "status": "Alive",
+            "name": "Ghost"
+        },
+        {
+            "id": "6",
+            "status": "Alive",
+            "name": "Grey Worm"
+        },
+        {
+            "id": "7",
+            "status": "Alive",
+            "house-birth": "House Greyjoy",
+            "name": "Aeron Greyjoy"
+        },
+        {
+            "id": "8",
+            "status": "Alive",
+            "house-birth": "House Greyjoy",
+            "name": "Euron Greyjoy"
+        },
+        {
+            "id": "9",
+            "status": "Alive",
+            "house-birth": "House Greyjoy",
+            "name": "Theon Greyjoy"
+        },
+        {
+            "id": "10",
+            "status": "Alive",
+            "house-birth": "House Greyjoy",
+            "name": "Yara Greyjoy"
+        },
+        {
+            "id": "11",
+            "status": "Alive",
+            "house-birth": "House Targaryen",
+            "name": "Jon Snow"
+        },
+        {
+            "id": "12",
+            "status": "Alive",
+            "house-birth": "House Lannister",
+            "name": "Cersei Lannister"
+        },
+        {
+            "id": "13",
+            "status": "Alive",
+            "house-birth": "House Lannister",
+            "name": "Jaime Lannister"
+        },
+        {
+            "id": "14",
+            "status": "Alive",
+            "house-birth": "House Lannister",
+            "name": "Tyrion Lannister"
+        },
+        {
+            "id": "15",
+            "status": "Alive",
+            "name": "Melisandre"
+        },
+        {
+            "id": "16",
+            "status": "Alive",
+            "name": "Missandei"
+        },
+        {
+            "id": "17",
+            "status": "Alive",
+            "house-birth": "House Mormont",
+            "name": "Jorah Mormont"
+        },
+        {
+            "id": "18",
+            "status": "Alive",
+            "name": "Night King"
+        },
+        {
+            "id": "19",
+            "status": "Alive",
+            "name": "Nymeria"
+        },
+        {
+            "id": "20",
+            "status": "Alive",
+            "house-birth": "House Payne",
+            "name": "Ilyn Payne"
+        },
+        {
+            "id": "21",
+            "status": "Alive",
+            "house-birth": "House Payne",
+            "name": "Podrick Payne"
+        },
+        {
+            "id": "22",
+            "status": "Alive",
+            "house-birth": "House Reed",
+            "name": "Howland Reed"
+        },
+        {
+            "id": "23",
+            "status": "Alive",
+            "house-birth": "House Reed",
+            "name": "Meera Reed"
+        },
+        {
+            "id": "24",
+            "status": "Alive",
+            "name": "Rhaegal"
+        },
+        {
+            "id": "25",
+            "status": "Alive",
+            "house-birth": "Sand Snakes",
+            "name": "Ellaria Sand"
+        },
+        {
+            "id": "26",
+            "status": "Alive",
+            "house-birth": "House Stark",
+            "name": "Arya Stark"
+        },
+        {
+            "id": "27",
+            "status": "Alive",
+            "house-birth": "House Stark",
+            "name": "Bran Stark"
+        },
+        {
+            "id": "28",
+            "status": "Alive",
+            "house-birth": "House Stark",
+            "name": "Sansa Stark"
+        },
+        {
+            "id": "29",
+            "status": "Alive",
+            "house-birth": "House Targaryen",
+            "name": "Daenerys Targaryen"
+        },
+        {
+            "id": "30",
+            "status": "Alive",
+            "house-birth": "House Tarth",
+            "name": "Brienne of Tarth"
+        },
+        {
+            "id": "31",
+            "status": "Alive",
+            "house-birth": "House Tully",
+            "name": "Edmure Tully"
+        },
+        {
+            "id": "32",
+            "status": "Deceased",
+            "house-birth": "House Arryn",
+            "name": "Jon Arryn"
+        },
+        {
+            "id": "33",
+            "status": "Deceased",
+            "house-marriage": "House Arryn",
+            "house-birth": "House Tully",
+            "name": "Lysa Arryn"
+        },
+        {
+            "id": "34",
+            "status": "Deceased",
+            "house-birth": "House Baelish",
+            "name": "Petyr Baelish",
+            "house-marriage": "House Arryn"
+        },
+        {
+            "id": "35",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Joffrey Baratheon"
+        },
+        {
+            "id": "36",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Myrcella Baratheon"
+        },
+        {
+            "id": "37",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Robert Baratheon"
+        },
+        {
+            "id": "38",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Shireen Baratheon"
+        },
+        {
+            "id": "39",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Stannis Baratheon"
+        },
+        {
+            "id": "40",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Tommen Baratheon"
+        },
+        {
+            "id": "41",
+            "status": "Deceased",
+            "house-birth": "House Bolton",
+            "name": "Ramsay Bolton"
+        },
+        {
+            "id": "42",
+            "status": "Deceased",
+            "house-birth": "House Bolton",
+            "name": "Roose Bolton"
+        },
+        {
+            "id": "43",
+            "status": "Deceased",
+            "house-birth": "House Dayne",
+            "name": "Arthur Dayne"
+        },
+        {
+            "id": "44",
+            "status": "Deceased",
+            "house-marriage": "House Targaryen",
+            "name": "Drogo"
+        },
+        {
+            "id": "45",
+            "status": "Deceased",
+            "house-birth": "House Frey",
+            "name": "Walder Frey"
+        },
+        {
+            "id": "46",
+            "status": "Deceased",
+            "house-birth": "House Greyjoy",
+            "name": "Balon Greyjoy"
+        },
+        {
+            "id": "47",
+            "status": "Deceased",
+            "name": "Grey Wind"
+        },
+        {
+            "id": "48",
+            "status": "Deceased",
+            "name": "High Sparrow"
+        },
+        {
+            "id": "49",
+            "status": "Deceased",
+            "name": "Lady"
+        },
+        {
+            "id": "50",
+            "status": "Deceased",
+            "house-birth": "House Lannister",
+            "name": "Kevan Lannister"
+        },
+        {
+            "id": "51",
+            "status": "Deceased",
+            "name": "Lancel Lannister"
+        },
+        {
+            "id": "52",
+            "status": "Deceased",
+            "house-birth": "House Lannister",
+            "name": "Tywin Lannister"
+        },
+        {
+            "id": "53",
+            "status": "Deceased",
+            "house-birth": "House Martell",
+            "name": "Elia Martell",
+            "house-marriage": "House Targaryen"
+        },
+        {
+            "id": "54",
+            "status": "Deceased",
+            "house-birth": "House Martell",
+            "name": "Oberyn Martell"
+        },
+        {
+            "id": "55",
+            "status": "Deceased",
+            "house-birth": "House Mormont",
+            "group": "Night's Watch",
+            "name": "Jeor Mormont"
+        },
+        {
+            "id": "56",
+            "status": "Deceased",
+            "group": "Night's Watch",
+            "name": "Olly"
+        },
+        {
+            "id": "57",
+            "status": "Deceased",
+            "name": "Osha"
+        },
+        {
+            "id": "58",
+            "status": "Deceased",
+            "group": "Free Folk",
+            "name": "Mance Rayder"
+        },
+        {
+            "id": "59",
+            "status": "Deceased",
+            "house-birth": "House Reed",
+            "name": "Jojen Reed"
+        },
+        {
+            "id": "60",
+            "status": "Deceased",
+            "house-birth": "Sand Snakes",
+            "name": "Nymeria Sand"
+        },
+        {
+            "id": "61",
+            "status": "Deceased",
+            "group": "Sand Snakes",
+            "name": "Obara Sand"
+        },
+        {
+            "id": "62",
+            "status": "Deceased",
+            "group": "Sand Snakes",
+            "name": "Tyene Sand"
+        },
+        {
+            "id": "63",
+            "status": "Deceased",
+            "name": "Shae"
+        },
+        {
+            "id": "64",
+            "status": "Deceased",
+            "name": "Shaggydog"
+        },
+        {
+            "id": "65",
+            "status": "Deceased",
+            "group": "House Stark",
+            "name": "Benjen Stark"
+        },
+        {
+            "id": "66",
+            "status": "Deceased",
+            "house-marriage": "House Stark",
+            "house-birth": "House Tully",
+            "name": "Catelyn Stark"
+        },
+        {
+            "id": "67",
+            "status": "Deceased",
+            "house-birth": "House Stark",
+            "name": "Eddard Stark"
+        },
+        {
+            "id": "68",
+            "status": "Deceased",
+            "house-birth": "House Stark",
+            "name": "Lyanna Stark",
+            "house-marriage": "House Targaryen"
+        },
+        {
+            "id": "69",
+            "status": "Deceased",
+            "house-birth": "House Stark",
+            "name": "Rickard Stark"
+        },
+        {
+            "id": "70",
+            "status": "Deceased",
+            "house-birth": "House Stark",
+            "name": "Rickon Stark"
+        },
+        {
+            "id": "71",
+            "status": "Deceased",
+            "house-birth": "House Stark",
+            "name": "Robb Stark"
+        },
+        {
+            "id": "72",
+            "status": "Deceased",
+            "name": "Summer"
+        },
+        {
+            "id": "73",
+            "status": "Deceased",
+            "house-birth": "House Thorne",
+            "group": "Night's Watch",
+            "name": "Alliser Thorne"
+        },
+        {
+            "id": "74",
+            "status": "Uncertain",
+            "house-birth": "House Dondarrion",
+            "group": "Brotherhood Without Banners",
+            "name": "Beric Dondarrion"
+        },
+        {
+            "id": "75",
+            "status": "Alive",
+            "group": "Free Folk",
+            "name": "Tormund"
+        },
+        {
+            "id": "76",
+            "status": "Deceased",
+            "house-birth": "House Targaryen",
+            "name": "Rhaegar Targaryen"
+        },
+        {
+            "id": "77",
+            "status": "Deceased",
+            "house-birth": "House Targaryen",
+            "name": "Aerys II Targaryen"
+        },
+        {
+            "id": "78",
+            "status": "Deceased",
+            "name": "Viserion"
+        },
+        {
+            "id": "79",
+            "status": "Deceased",
+            "house-birth": "House Baratheon",
+            "name": "Renly Baratheon"
+        },
+        {
+            "id": "80",
+            "status": "Alive",
+            "house-birth": "House Stark",
+            "name": "Brandon Stark"
+        },
+        {
+            "id": "81",
+            "status": "Deceased",
+            "house-birth": "House Tyrell",
+            "name": "Margaery Tyrell",
+            "house-marriage": "House Baratheon"
+        },
+        {
+            "id": "82",
+            "status": "Deceased",
+            "house-birth": "House Targaryen",
+            "name": "Rhaella Targaryen"
+        },
+        {
+            "id": "83",
+            "status": "Deceased",
+            "house-marriage": "House Tyrell",
+            "house-birth": "House Redwyne",
+            "name": "Olenna Tyrell"
+        }
+    ],
+    "edge": [
+        {
+            "source": "73",
+            "target": "11",
+            "relation": "killed"
+        },
+        {
+            "source": "56",
+            "target": "11",
+            "relation": "killed"
+        },
+        {
+            "source": "33",
+            "target": "32",
+            "relation": "killed"
+        },
+        {
+            "source": "34",
+            "target": "33",
+            "relation": "killed"
+        },
+        {
+            "source": "26",
+            "target": "34",
+            "relation": "killed"
+        },
+        {
+            "source": "83",
+            "target": "35",
+            "relation": "killed"
+        },
+        {
+            "source": "25",
+            "target": "36",
+            "relation": "killed"
+        },
+        {
+            "source": "15",
+            "target": "38",
+            "relation": "killed"
+        },
+        {
+            "source": "30",
+            "target": "39",
+            "relation": "killed"
+        },
+        {
+            "source": "41",
+            "target": "42",
+            "relation": "killed"
+        },
+        {
+            "source": "67",
+            "target": "43",
+            "relation": "killed"
+        },
+        {
+            "source": "29",
+            "target": "44",
+            "relation": "killed"
+        },
+        {
+            "source": "26",
+            "target": "45",
+            "relation": "killed"
+        },
+        {
+            "source": "8",
+            "target": "46",
+            "relation": "killed"
+        },
+        {
+            "source": "12",
+            "target": "48",
+            "relation": "killed"
+        },
+        {
+            "source": "67",
+            "target": "49",
+            "relation": "killed"
+        },
+        {
+            "source": "12",
+            "target": "50",
+            "relation": "killed"
+        },
+        {
+            "source": "12",
+            "target": "51",
+            "relation": "killed"
+        },
+        {
+            "source": "14",
+            "target": "52",
+            "relation": "killed"
+        },
+        {
+            "source": "1",
+            "target": "53",
+            "relation": "killed"
+        },
+        {
+            "source": "1",
+            "target": "54",
+            "relation": "killed"
+        },
+        {
+            "source": "11",
+            "target": "56",
+            "relation": "killed"
+        },
+        {
+            "source": "41",
+            "target": "57",
+            "relation": "killed"
+        },
+        {
+            "source": "11",
+            "target": "58",
+            "relation": "killed"
+        },
+        {
+            "source": "8",
+            "target": "60",
+            "relation": "killed"
+        },
+        {
+            "source": "8",
+            "target": "61",
+            "relation": "killed"
+        },
+        {
+            "source": "12",
+            "target": "62",
+            "relation": "killed"
+        },
+        {
+            "source": "14",
+            "target": "63",
+            "relation": "killed"
+        },
+        {
+            "source": "20",
+            "target": "67",
+            "relation": "killed"
+        },
+        {
+            "source": "77",
+            "target": "69",
+            "relation": "killed"
+        },
+        {
+            "source": "41",
+            "target": "70",
+            "relation": "killed"
+        },
+        {
+            "source": "42",
+            "target": "71",
+            "relation": "killed"
+        },
+        {
+            "source": "11",
+            "target": "73",
+            "relation": "killed"
+        },
+        {
+            "source": "1",
+            "target": "74",
+            "relation": "killed"
+        },
+        {
+            "source": "2",
+            "target": "74",
+            "relation": "killed"
+        },
+        {
+            "source": "37",
+            "target": "76",
+            "relation": "killed"
+        },
+        {
+            "source": "13",
+            "target": "77",
+            "relation": "killed"
+        },
+        {
+            "source": "18",
+            "target": "78",
+            "relation": "killed"
+        },
+        {
+            "source": "15",
+            "target": "79",
+            "relation": "killed"
+        },
+        {
+            "source": "12",
+            "target": "81",
+            "relation": "killed"
+        },
+        {
+            "source": "13",
+            "target": "83",
+            "relation": "killed"
+        },
+        {
+            "source": "32",
+            "target": "0",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "33",
+            "target": "0",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "2",
+            "target": "1",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "24",
+            "target": "3",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "78",
+            "target": "3",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "37",
+            "target": "4",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "47",
+            "target": "5",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "49",
+            "target": "5",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "19",
+            "target": "5",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "72",
+            "target": "5",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "64",
+            "target": "5",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "46",
+            "target": "7",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "8",
+            "target": "7",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "46",
+            "target": "8",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "46",
+            "target": "9",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "10",
+            "target": "9",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "46",
+            "target": "10",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "76",
+            "target": "11",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "68",
+            "target": "11",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "11",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "11",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "26",
+            "target": "11",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "27",
+            "target": "11",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "70",
+            "target": "11",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "52",
+            "target": "12",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "13",
+            "target": "12",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "14",
+            "target": "12",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "52",
+            "target": "13",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "14",
+            "target": "13",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "52",
+            "target": "14",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "55",
+            "target": "17",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "47",
+            "target": "19",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "49",
+            "target": "19",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "72",
+            "target": "19",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "64",
+            "target": "19",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "22",
+            "target": "23",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "59",
+            "target": "23",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "78",
+            "target": "24",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "67",
+            "target": "26",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "26",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "26",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "26",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "27",
+            "target": "26",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "67",
+            "target": "27",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "27",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "27",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "27",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "67",
+            "target": "28",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "28",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "28",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "77",
+            "target": "29",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "82",
+            "target": "29",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "76",
+            "target": "29",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "66",
+            "target": "31",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "33",
+            "target": "31",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "66",
+            "target": "33",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "13",
+            "target": "35",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "37",
+            "target": "35",
+            "type": "legal",
+            "relation": "father"
+        },
+        {
+            "source": "12",
+            "target": "35",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "36",
+            "target": "35",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "40",
+            "target": "35",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "13",
+            "target": "36",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "37",
+            "target": "36",
+            "type": "legal",
+            "relation": "father"
+        },
+        {
+            "source": "12",
+            "target": "36",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "40",
+            "target": "36",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "39",
+            "target": "37",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "79",
+            "target": "37",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "39",
+            "target": "38",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "79",
+            "target": "39",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "13",
+            "target": "40",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "37",
+            "target": "40",
+            "type": "legal",
+            "relation": "father"
+        },
+        {
+            "source": "12",
+            "target": "40",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "source": "42",
+            "target": "41",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "49",
+            "target": "47",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "72",
+            "target": "47",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "64",
+            "target": "47",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "72",
+            "target": "49",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "64",
+            "target": "49",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "52",
+            "target": "50",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "50",
+            "target": "51",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "54",
+            "target": "53",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "22",
+            "target": "59",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "54",
+            "target": "60",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "61",
+            "target": "60",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "62",
+            "target": "60",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "54",
+            "target": "61",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "62",
+            "target": "61",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "54",
+            "target": "62",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "25",
+            "target": "62",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "72",
+            "target": "64",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "69",
+            "target": "65",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "67",
+            "target": "65",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "68",
+            "target": "65",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "69",
+            "target": "67",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "directed": "false",
+            "source": "68",
+            "target": "67",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "69",
+            "target": "68",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "67",
+            "target": "70",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "70",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "70",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "70",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "26",
+            "target": "70",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "67",
+            "target": "71",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "71",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "source": "77",
+            "target": "76",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "82",
+            "target": "76",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "82",
+            "target": "77",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "source": "67",
+            "target": "80",
+            "type": "biological",
+            "relation": "father"
+        },
+        {
+            "source": "66",
+            "target": "80",
+            "type": "biological",
+            "relation": "mother"
+        },
+        {
+            "directed": "false",
+            "source": "71",
+            "target": "80",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "80",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "26",
+            "target": "80",
+            "type": "biological",
+            "relation": "sibling"
+        },
+        {
+            "directed": "false",
+            "source": "6",
+            "target": "16",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "11",
+            "target": "29",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "14",
+            "target": "63",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "15",
+            "target": "39",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "25",
+            "target": "54",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "52",
+            "target": "63",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "12",
+            "target": "13",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "33",
+            "target": "34",
+            "relation": "lover"
+        },
+        {
+            "directed": "false",
+            "source": "12",
+            "target": "37",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "14",
+            "target": "28",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "28",
+            "target": "41",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "29",
+            "target": "44",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "32",
+            "target": "33",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "33",
+            "target": "34",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "35",
+            "target": "81",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "40",
+            "target": "81",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "53",
+            "target": "76",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "66",
+            "target": "67",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "68",
+            "target": "76",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "77",
+            "target": "82",
+            "relation": "spouse"
+        },
+        {
+            "directed": "false",
+            "source": "79",
+            "target": "81",
+            "relation": "spouse"
+        },
+        {
+            "source": "3",
+            "target": "29",
+            "type": "dragon",
+            "relation": "allegiance"
+        },
+        {
+            "source": "78",
+            "target": "29",
+            "type": "dragon",
+            "relation": "allegiance"
+        },
+        {
+            "source": "4",
+            "target": "11",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "5",
+            "target": "11",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "9",
+            "target": "10",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "10",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "15",
+            "target": "11",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "15",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "19",
+            "target": "26",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "21",
+            "target": "30",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "24",
+            "target": "29",
+            "type": "dragon",
+            "relation": "allegiance"
+        },
+        {
+            "source": "47",
+            "target": "71",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "49",
+            "target": "28",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "64",
+            "target": "70",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "72",
+            "target": "27",
+            "type": "direwolf",
+            "relation": "allegiance"
+        },
+        {
+            "source": "75",
+            "target": "11",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "22",
+            "target": "67",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "17",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "16",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "6",
+            "target": "29",
+            "type": "oath",
+            "relation": "allegiance"
+        },
+        {
+            "source": "1",
+            "target": "37",
+            "type": "kingsguard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "1",
+            "target": "35",
+            "type": "kingsguard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "1",
+            "target": "40",
+            "type": "kingsguard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "1",
+            "target": "12",
+            "type": "queensquard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "2",
+            "target": "37",
+            "type": "kingsguard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "2",
+            "target": "35",
+            "type": "kingsguard",
+            "relation": "allegiance"
+        },
+        {
+            "source": "14",
+            "target": "29",
+            "type": "hand",
+            "relation": "allegiance"
+        },
+        {
+            "source": "67",
+            "target": "37",
+            "type": "hand",
+            "relation": "allegiance"
+        },
+        {
+            "source": "20",
+            "target": "37",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "20",
+            "target": "35",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "23",
+            "target": "27",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "59",
+            "target": "27",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "25",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "30",
+            "target": "66",
+            "type": "oath",
+            "relation": "allegiance"
+        },
+        {
+            "source": "32",
+            "target": "37",
+            "type": "hand",
+            "relation": "allegiance"
+        },
+        {
+            "source": "43",
+            "target": "76",
+            "type": "hand",
+            "relation": "allegiance"
+        },
+        {
+            "source": "42",
+            "target": "45",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "45",
+            "target": "52",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "46",
+            "target": "12",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "57",
+            "target": "67",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "9",
+            "target": "67",
+            "type": "ward",
+            "relation": "allegiance"
+        },
+        {
+            "source": "83",
+            "target": "29",
+            "type": "pledge",
+            "relation": "allegiance"
+        },
+        {
+            "source": "78",
+            "target": "18",
+            "type": "dragon",
+            "relation": "allegiance"
+        }
+    ]
+}

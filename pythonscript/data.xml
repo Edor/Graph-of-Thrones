@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<radice>
+        <node id="0">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Arryn</data>
+            <data key="name">Robin Arryn</data>
+        </node>
+        <node id="1">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Clegane</data>
+            <data key="name">Gregor Clegane</data>
+        </node>
+        <node id="2">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Clegane</data>
+            <data key="group">Brotherhood Without Banners</data>
+            <data key="name">Sandor Clegane</data>
+        </node>
+        <node id="3">
+            <data key="status">Alive</data>
+            <data key="name">Drogon</data>
+        </node>
+        <node id="4">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Gendry</data>
+        </node>
+        <node id="5">
+            <data key="status">Alive</data>
+            <data key="name">Ghost</data>
+        </node>
+        <node id="6">
+            <data key="status">Alive</data>
+            <data key="name">Grey Worm</data>
+        </node>
+        <node id="7">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Greyjoy</data>
+            <data key="name">Aeron Greyjoy</data>
+        </node>
+        <node id="8">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Greyjoy</data>
+            <data key="name">Euron Greyjoy</data>
+        </node>
+        <node id="9">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Greyjoy</data>
+            <data key="name">Theon Greyjoy</data>
+        </node>
+        <node id="10">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Greyjoy</data>
+            <data key="name">Yara Greyjoy</data>
+        </node>
+        <node id="11">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Targaryen</data>
+            <data key="name">Jon Snow</data>
+        </node>
+        <node id="12">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Lannister</data>
+            <data key="name">Cersei Lannister</data>
+        </node>
+        <node id="13">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Lannister</data>
+            <data key="name">Jaime Lannister</data>
+        </node>
+        <node id="14">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Lannister</data>
+            <data key="name">Tyrion Lannister</data>
+        </node>
+        <node id="15">
+            <data key="status">Alive</data>
+            <data key="name">Melisandre</data>
+        </node>
+        <node id="16">
+            <data key="status">Alive</data>
+            <data key="name">Missandei</data>
+        </node>
+        <node id="17">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Mormont</data>
+            <data key="name">Jorah Mormont</data>
+        </node>
+        <node id="18">
+            <data key="status">Alive</data>
+            <data key="name">Night King</data>
+        </node>
+        <node id="19">
+            <data key="status">Alive</data>
+            <data key="name">Nymeria</data>
+        </node>
+        <node id="20">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Payne</data>
+            <data key="name">Ilyn Payne</data>
+        </node>
+        <node id="21">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Payne</data>
+            <data key="name">Podrick Payne</data>
+        </node>
+        <node id="22">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Reed</data>
+            <data key="name">Howland Reed</data>
+        </node>
+        <node id="23">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Reed</data>
+            <data key="name">Meera Reed</data>
+        </node>
+        <node id="24">
+            <data key="status">Alive</data>
+            <data key="name">Rhaegal</data>
+        </node>
+        <node id="25">
+            <data key="status">Alive</data>
+            <data key="house-birth">Sand Snakes</data>
+            <data key="name">Ellaria Sand</data>
+        </node>
+        <node id="26">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Arya Stark</data>
+        </node>
+        <node id="27">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Bran Stark</data>
+        </node>
+        <node id="28">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Sansa Stark</data>
+        </node>
+        <node id="29">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Targaryen</data>
+            <data key="name">Daenerys Targaryen</data>
+        </node>
+        <node id="30">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Tarth</data>
+            <data key="name">Brienne of Tarth</data>
+        </node>
+        <node id="31">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Tully</data>
+            <data key="name">Edmure Tully</data>
+        </node>
+        <node id="32">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Arryn</data>
+            <data key="name">Jon Arryn</data>
+        </node>
+        <node id="33">
+            <data key="status">Deceased</data>
+            <data key="house-marriage">House Arryn</data>
+            <data key="house-birth">House Tully</data>
+            <data key="name">Lysa Arryn</data>
+        </node>
+        <node id="34">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baelish</data>
+            <data key="name">Petyr Baelish</data>
+            <data key="house-marriage">House Arryn</data>
+        </node>
+        <node id="35">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Joffrey Baratheon</data>
+        </node>
+        <node id="36">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Myrcella Baratheon</data>
+        </node>
+        <node id="37">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Robert Baratheon</data>
+        </node>
+        <node id="38">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Shireen Baratheon</data>
+        </node>
+        <node id="39">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Stannis Baratheon</data>
+        </node>
+        <node id="40">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Tommen Baratheon</data>
+        </node>
+        <node id="41">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Bolton</data>
+            <data key="name">Ramsay Bolton</data>
+        </node>
+        <node id="42">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Bolton</data>
+            <data key="name">Roose Bolton</data>
+        </node>
+        <node id="43">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Dayne</data>
+            <data key="name">Arthur Dayne</data>
+        </node>
+        <node id="44">
+            <data key="status">Deceased</data>
+            <data key="house-marriage">House Targaryen</data>
+            <data key="name">Drogo</data>
+        </node>
+        <node id="45">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Frey</data>
+            <data key="name">Walder Frey</data>
+        </node>
+        <node id="46">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Greyjoy</data>
+            <data key="name">Balon Greyjoy</data>
+        </node>
+        <node id="47">
+            <data key="status">Deceased</data>
+            <data key="name">Grey Wind</data>
+        </node>
+        <node id="48">
+            <data key="status">Deceased</data>
+            <data key="name">High Sparrow</data>
+        </node>
+        <node id="49">
+            <data key="status">Deceased</data>
+            <data key="name">Lady</data>
+        </node>
+        <node id="50">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Lannister</data>
+            <data key="name">Kevan Lannister</data>
+        </node>
+        <node id="51">
+            <data key="status">Deceased</data>
+            <data key="name">Lancel Lannister</data>
+        </node>
+        <node id="52">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Lannister</data>
+            <data key="name">Tywin Lannister</data>
+        </node>
+        <node id="53">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Martell</data>
+            <data key="name">Elia Martell</data>
+            <data key="house-marriage">House Targaryen</data>
+        </node>
+        <node id="54">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Martell</data>
+            <data key="name">Oberyn Martell</data>
+        </node>
+        <node id="55">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Mormont</data>
+            <data key="group">Night's Watch</data>
+            <data key="name">Jeor Mormont</data>
+        </node>
+        <node id="56">
+            <data key="status">Deceased</data>
+            <data key="group">Night's Watch</data>
+            <data key="name">Olly</data>
+        </node>
+        <node id="57">
+            <data key="status">Deceased</data>
+            <data key="name">Osha</data>
+        </node>
+        <node id="58">
+            <data key="status">Deceased</data>
+            <data key="group">Free Folk</data>
+            <data key="name">Mance Rayder</data>
+        </node>
+        <node id="59">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Reed</data>
+            <data key="name">Jojen Reed</data>
+        </node>
+        <node id="60">
+            <data key="status">Deceased</data>
+            <data key="house-birth">Sand Snakes</data>
+            <data key="name">Nymeria Sand</data>
+        </node>
+        <node id="61">
+            <data key="status">Deceased</data>
+            <data key="group">Sand Snakes</data>
+            <data key="name">Obara Sand</data>
+        </node>
+        <node id="62">
+            <data key="status">Deceased</data>
+            <data key="group">Sand Snakes</data>
+            <data key="name">Tyene Sand</data>
+        </node>
+        <node id="63">
+            <data key="status">Deceased</data>
+            <data key="name">Shae</data>
+        </node>
+        <node id="64">
+            <data key="status">Deceased</data>
+            <data key="name">Shaggydog</data>
+        </node>
+        <node id="65">
+            <data key="status">Deceased</data>
+            <data key="group">House Stark</data>
+            <data key="name">Benjen Stark</data>
+        </node>
+        <node id="66">
+            <data key="status">Deceased</data>
+            <data key="house-marriage">House Stark</data>
+            <data key="house-birth">House Tully</data>
+            <data key="name">Catelyn Stark</data>
+        </node>
+        <node id="67">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Eddard Stark</data>
+        </node>
+        <node id="68">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Lyanna Stark</data>
+            <data key="house-marriage">House Targaryen</data>
+        </node>
+        <node id="69">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Rickard Stark</data>
+        </node>
+        <node id="70">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Rickon Stark</data>
+        </node>
+        <node id="71">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Robb Stark</data>
+        </node>
+        <node id="72">
+            <data key="status">Deceased</data>
+            <data key="name">Summer</data>
+        </node>
+        <node id="73">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Thorne</data>
+            <data key="group">Night's Watch</data>
+            <data key="name">Alliser Thorne</data>
+        </node>
+        <node id="74">
+            <data key="status">Uncertain</data>
+            <data key="house-birth">House Dondarrion</data>
+            <data key="group">Brotherhood Without Banners</data>
+            <data key="name">Beric Dondarrion</data>
+        </node>
+        <node id="75">
+            <data key="status">Alive</data>
+            <data key="group">Free Folk</data>
+            <data key="name">Tormund</data>
+        </node>
+        <node id="76">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Targaryen</data>
+            <data key="name">Rhaegar Targaryen</data>
+        </node>
+        <node id="77">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Targaryen</data>
+            <data key="name">Aerys II Targaryen</data>
+        </node>
+        <node id="78">
+            <data key="status">Deceased</data>
+            <data key="name">Viserion</data>
+        </node>
+        <node id="79">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Baratheon</data>
+            <data key="name">Renly Baratheon</data>
+        </node>
+        <node id="80">
+            <data key="status">Alive</data>
+            <data key="house-birth">House Stark</data>
+            <data key="name">Brandon Stark</data>
+        </node>
+        <node id="81">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Tyrell</data>
+            <data key="name">Margaery Tyrell</data>
+            <data key="house-marriage">House Baratheon</data>
+        </node>
+        <node id="82">
+            <data key="status">Deceased</data>
+            <data key="house-birth">House Targaryen</data>
+            <data key="name">Rhaella Targaryen</data>
+        </node>
+        <node id="83">
+            <data key="status">Deceased</data>
+            <data key="house-marriage">House Tyrell</data>
+            <data key="house-birth">House Redwyne</data>
+            <data key="name">Olenna Tyrell</data>
+        </node>
+</radice>

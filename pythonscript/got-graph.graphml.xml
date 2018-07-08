@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml>
+
+        <edge source="73" target="11">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="56" target="11">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="33" target="32">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="34" target="33">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="26" target="34">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="83" target="35">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="25" target="36">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="15" target="38">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="30" target="39">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="41" target="42">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="67" target="43">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="29" target="44">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="26" target="45">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="8" target="46">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="12" target="48">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="67" target="49">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="12" target="50">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="12" target="51">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="14" target="52">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="1" target="53">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="1" target="54">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="11" target="56">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="41" target="57">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="11" target="58">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="8" target="60">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="8" target="61">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="12" target="62">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="14" target="63">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="20" target="67">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="77" target="69">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="41" target="70">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="42" target="71">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="11" target="73">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="1" target="74">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="2" target="74">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="37" target="76">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="13" target="77">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="18" target="78">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="15" target="79">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="12" target="81">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="13" target="83">
+            <data key="relation">killed</data>
+        </edge>
+        <edge source="32" target="0">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="33" target="0">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="2" target="1">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="24" target="3">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="78" target="3">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="37" target="4">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="47" target="5">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="49" target="5">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="19" target="5">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="72" target="5">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="64" target="5">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="46" target="7">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="8" target="7">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="46" target="8">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="46" target="9">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="10" target="9">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="46" target="10">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="76" target="11">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="68" target="11">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="11">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="28" target="11">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="26" target="11">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="27" target="11">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="70" target="11">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="52" target="12">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="13" target="12">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="14" target="12">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="52" target="13">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="14" target="13">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="52" target="14">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="55" target="17">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="47" target="19">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="49" target="19">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="72" target="19">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="64" target="19">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="22" target="23">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="59" target="23">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="78" target="24">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="67" target="26">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="26">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="26">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="28" target="26">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="27" target="26">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="67" target="27">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="27">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="27">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="28" target="27">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="67" target="28">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="28">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="28">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="77" target="29">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="82" target="29">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="76" target="29">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="66" target="31">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="33" target="31">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="66" target="33">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="13" target="35">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="37" target="35">
+            <data key="type">legal</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="12" target="35">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="36" target="35">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="40" target="35">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="13" target="36">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="37" target="36">
+            <data key="type">legal</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="12" target="36">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="40" target="36">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="39" target="37">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="79" target="37">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="39" target="38">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="79" target="39">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="13" target="40">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="37" target="40">
+            <data key="type">legal</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="12" target="40">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge source="42" target="41">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="49" target="47">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="72" target="47">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="64" target="47">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="72" target="49">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="64" target="49">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="52" target="50">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="50" target="51">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="54" target="53">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="22" target="59">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="54" target="60">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="61" target="60">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="62" target="60">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="54" target="61">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="62" target="61">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="54" target="62">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="25" target="62">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="72" target="64">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="69" target="65">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="67" target="65">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="68" target="65">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="69" target="67">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge directed="false" source="68" target="67">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="69" target="68">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="67" target="70">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="70">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="70">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="28" target="70">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="26" target="70">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="67" target="71">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="71">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge source="77" target="76">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="82" target="76">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="82" target="77">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge source="67" target="80">
+            <data key="type">biological</data>
+            <data key="relation">father</data>
+        </edge>
+        <edge source="66" target="80">
+            <data key="type">biological</data>
+            <data key="relation">mother</data>
+        </edge>
+        <edge directed="false" source="71" target="80">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="28" target="80">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="26" target="80">
+            <data key="type">biological</data>
+            <data key="relation">sibling</data>
+        </edge>
+        <edge directed="false" source="6" target="16">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="11" target="29">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="14" target="63">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="15" target="39">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="25" target="54">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="52" target="63">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="12" target="13">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="33" target="34">
+            <data key="relation">lover</data>
+        </edge>
+        <edge directed="false" source="12" target="37">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="14" target="28">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="28" target="41">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="29" target="44">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="32" target="33">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="33" target="34">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="35" target="81">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="40" target="81">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="53" target="76">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="66" target="67">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="68" target="76">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="77" target="82">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge directed="false" source="79" target="81">
+            <data key="relation">spouse</data>
+        </edge>
+        <edge source="3" target="29">
+            <data key="type">dragon</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="78" target="29">
+            <data key="type">dragon</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="4" target="11">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="5" target="11">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="9" target="10">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="10" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="15" target="11">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="15" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="19" target="26">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="21" target="30">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="24" target="29">
+            <data key="type">dragon</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="47" target="71">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="49" target="28">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="64" target="70">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="72" target="27">
+            <data key="type">direwolf</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="75" target="11">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="22" target="67">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="17" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="16" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="6" target="29">
+            <data key="type">oath</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="1" target="37">
+            <data key="type">kingsguard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="1" target="35">
+            <data key="type">kingsguard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="1" target="40">
+            <data key="type">kingsguard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="1" target="12">
+            <data key="type">queensquard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="2" target="37">
+            <data key="type">kingsguard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="2" target="35">
+            <data key="type">kingsguard</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="14" target="29">
+            <data key="type">hand</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="67" target="37">
+            <data key="type">hand</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="20" target="37">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="20" target="35">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="23" target="27">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="59" target="27">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="25" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="30" target="66">
+            <data key="type">oath</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="32" target="37">
+            <data key="type">hand</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="43" target="76">
+            <data key="type">hand</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="42" target="45">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="45" target="52">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="46" target="12">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="57" target="67">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="9" target="67">
+            <data key="type">ward</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="83" target="29">
+            <data key="type">pledge</data>
+            <data key="relation">allegiance</data>
+        </edge>
+        <edge source="78" target="18">
+            <data key="type">dragon</data>
+            <data key="relation">allegiance</data>
+        </edge>
+    </graph>
+</graphml>
