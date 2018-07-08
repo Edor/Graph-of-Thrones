@@ -46,60 +46,75 @@ for edge in edges:
 for edge in edges:
     if edge['relation'] == 'killed': # and edge[]
         edge['value'] = 40
-        edge['style'] = 'red'
+        edge['stroke'] = '#c52507'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'mother' and edge['type'] == 'biological':
         edge['value'] = 4
-        edge['style'] = 'black'
+        edge['stroke'] = '#839098'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'father' and edge['type'] == 'biological':
         edge['value'] = 4
-        edge['style'] = 'black'
+        edge['stroke'] = '#839098'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'sibling' and edge['type'] == 'biological':
         edge['value'] = 8
-        edge['style'] = 'black'
+        edge['stroke'] = '#839098'
+        edge['stroke-dasharray'] = '5,5'
     if edge['relation'] == 'father' and edge['type'] == 'legal':
         edge['value'] = 8
-        edge['style'] = 'black'
+        edge['stroke'] = '#839098'
+        edge['stroke-dasharray'] = '20,10,5,5,5,10'
     if edge['relation'] == 'lover':
         edge['value'] = 16
-        edge['style'] = 'black'
+        edge['stroke'] = '#913ccd'
+        edge['stroke-dasharray'] = '10,10'
     if edge['relation'] == 'spouse':
         edge['value'] = 4
-        edge['style'] = 'black'
+        edge['stroke'] = '#913ccd'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'dragon':
         edge['value'] = 8
-        edge['style'] = 'blue'
+        edge['stroke'] = '#5481e6'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'direwolf':
         edge['value'] = 8
-        edge['style'] = 'blue'
+        edge['stroke'] = '#5481e6'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'pledge':
         edge['value'] = 24
-        edge['style'] = 'black'
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '10,10'
     if edge['relation'] == 'allegiance' and edge['type'] == 'oath':
         edge['value'] = 16
-        edge['style'] = 'black'
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'kingsguard':
         edge['value'] = 16
-        edge['style'] = 'black'
-    if edge['relation'] == 'allegiance' and edge['type'] == 'queensguard':
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '0'
+    if edge['relation'] == 'allegiance' and edge['type'] == 'queensquard':
         edge['value'] = 16
-        edge['style'] = 'black'
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'hand':
         edge['value'] = 16
-        edge['style'] = 'black'
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '0'
     if edge['relation'] == 'allegiance' and edge['type'] == 'ward':
         edge['value'] = 16
-        edge['style'] = 'black'
+        edge['stroke'] = '#98cb4a'
+        edge['stroke-dasharray'] = '0'
 for person in people.keys():
 
     value = 1
     if 'group' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['group']]), "type": 'group', "value": value, "style":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['group']]), "type": 'group', "value": value, "stroke":'black'})
         value *= 2
     if 'house-marriage' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['house-marriage']]), "type": 'house-marriage', "value": value,"style":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['house-marriage']]), "type": 'house-marriage', "value": value,"stroke":'black'})
         value *= 4
     if 'house-birth' in people[person].keys():
-        edges.append({"source": person, "target": str(houses[people[person]['house-birth']]), "type": 'house-birth', "value": value,"style":'black'})
+        edges.append({"source": person, "target": str(houses[people[person]['house-birth']]), "type": 'house-birth', "value": value,"stroke":'black'})
         value *= 2
 
 to_save = {'node': nodes, 'edge': edges}
