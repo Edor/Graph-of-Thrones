@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        fieldset{
+            position:absolute;
+        }
+        legend {
+            width: 200px;
+            color: black;
+            padding: 3px 6px;
+            border: 1px;
+            border-style: double;
+            padding: 3px 6px;
+        }
+
+        .output {
+            font: 1rem 'Fira Sans', sans-serif;
+        }
+
+        input {
+            margin: .4rem;
+
+        }
+        label {
+            cursor: pointer;
+            color: #555;
+        }
+        label[for^=killed] {
+            color: #c52507;
+            font-weight: bold;
+        }
+        label[for^=family] {
+            color: #839098;
+            font-weight: bold;
+        }
+        label[for^=loving] {
+            color: #913ccd;
+            font-weight: bold;
+        }
+        label[for^=allegiance] {
+            color: #5481e6;
+            font-weight: bold;
+        }
+        label[for^=allegianceh] {
+            color: #98cb4a;
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+<body>
+<fieldset>
+    <legend>Legend</legend>
+
+    <div>
+        <input type="checkbox" id="killed" name="feature"
+               value="killed" />
+        <label for="killed">Killed</label>
+    </div>
+
+    <div>
+        <input type="checkbox" id="family" name="feature"
+               value="family" />
+        <label for="family">family ties</label>
+    </div>
+
+    <div>
+        <input type="checkbox" id="loving" name="feature"
+               value="loving" />
+        <label for="loving">Loving ties</label>
+    </div>
+    <div>
+        <input type="checkbox" id="allegiance" name="feature"
+               value="allegiance" />
+        <label for="allegiance">Allegiances by Animals</label>
+    </div>
+    <div>
+        <input type="checkbox" id="allegianceh" name="feature"
+               value="allegianceh" />
+        <label for="allegianceh">Allegiances</label>
+    </div>
+</fieldset>
+
+</body>
+</html>
