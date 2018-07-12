@@ -8,6 +8,14 @@ var color = d3.scaleOrdinal(d3.schemeCategory20);
 var di;
 var radius = 7;
 var house_radius = 16;
+
+var showHouse = false;
+var showKilled = true;
+var showFamily = true;
+var showLoving = true;
+var showAllegiance = true;
+var showAllegianceh = true;
+
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function id(d) {
         return d.id;
@@ -209,12 +217,15 @@ function getLinkStroke(d) {
 }
 function getLinkClass(d){
     if (d.hasOwnProperty("relation")){
+         if(d.relation === "allegiance" && (d.type !== "dragon" && d.type !== "direwolf")){
+             return "allegianceh links";
+         }
          return d.relation.replace("-","") + " links";
+
     }else{
         return "bound links";
     }
 }
-
 function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
     d.fx = d.x;
@@ -230,5 +241,56 @@ function dragended(d) {
     if (!d3.event.active) simulation.alphaTarget(0);
     d.fx = null;
     d.fy = null;
+}
+function showHideHouse(){
+    showHouse = !showHouse;
+    refreshLinks()
+}
+function showHideKilled(){
+    showKilled = !showKilled;
+    refreshLinks()
+}
+function showHideFamily(){
+    showFamily = !showFamily;
+    refreshLinks()
+}
+function showHideLoving(){
+    showLoving = !showLoving;
+    refreshLinks()
+}
+function showHideAllegiance(){
+    showAllegiance = !showAllegiance;
+    refreshLinks()
+}
+function showHideAllegianceh(){
+    showAllegianceh = !showAllegianceh;
+    refreshLinks()
+}
+function refreshLinks(){
+    console.log("changed")
+    stylelinks = document.getElementById("stylelinks");
+    html = "";
+    if (!showKilled){
+        html += ".links.killed{stroke-opacity: 0.0;}\n";
+    }
+    if (!showFamily){
+        html += ".links.sibling{stroke-opacity: 0.0;}\n";
+        html += ".links.father{stroke-opacity: 0.0;}\n";
+        html += ".links.mother{stroke-opacity: 0.0;}\n";
+    }
+    if (!showLoving){
+        html += ".links.lover{stroke-opacity: 0.0;}\n";
+        html += ".links.spouse{stroke-opacity: 0.0;}\n";
+    }
+     if (!showAllegiance){
+        html += ".links.allegiance{stroke-opacity: 0.0;}\n";
+    }
+    if (!showAllegianceh){
+        html += ".links.allegianceh{stroke-opacity: 0.0;}\n";
+    }
+    if (!showHouse){
+        html += ".links.bound{stroke-opacity: 0.0;}\n";
+    }
+    stylelinks.innerHTML = html;
 }
 // simulation.alphaTarget(0.3).restart();
