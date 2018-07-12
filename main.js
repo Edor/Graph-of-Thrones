@@ -83,11 +83,13 @@ d3.json("data3.json", function (error, graph) {
         node
             .attr("cx", function (d) {
                 d3.select("image#image"+d.id).attr("x", d.x - 32);
+                d3.select("image#image"+getGroupName(d.name)).attr("x", d.x - house_radius);
                 d = validate(d);
                 return d.x;
             })
             .attr("cy", function (d) {
                 d3.select("image#image"+d.id).attr("y", d.y - 32);
+                d3.select("image#image"+getGroupName(d.name)).attr("y", d.y - house_radius);
                 d = validate(d);
                 return d.y;
             });
@@ -110,7 +112,7 @@ d3.json("data3.json", function (error, graph) {
          return d;
     }
     function handleMouseOver(d){
-        node.nodes()[d.id].setAttribute("r",32);
+        node.filter('[id="' + d.id + '"]').transition().attr("r",32);
         simulation.force('collision', d3.forceCollide().radius(function(d) {
             return node.nodes()[d.id].getAttribute("r");
         }));
@@ -128,7 +130,7 @@ d3.json("data3.json", function (error, graph) {
          if (!d3.event.active) simulation.alphaTarget(0);
         // if (!d3.event.active) simulation.alphaTarget(0.1).restart();
 
-        node.nodes()[d.id].setAttribute("r",getRadius(d));
+        node.filter('[id="' + d.id + '"]').transition().attr("r",getRadius(d));
         removeImagePattern()
         node.nodes()[d.id].setAttribute("fill",getNodeFill(d))
     }
@@ -149,7 +151,7 @@ d3.json("data3.json", function (error, graph) {
 
     }
     function removeImagePattern(){
-        d3.select('pattern').remove();
+        d3.select('pattern#image').remove();
     }
 
 
@@ -176,14 +178,33 @@ function getNodeFill(d) {
     } else if (d['house-birth']) {
         return color(d['house-birth']);
     } else if(d['type'] == 'house') {
-        return color(d['name']);
+        addHousePattern(d)
+        return "url(#" + getGroupName(d.name) + ")";
     } else {
         return 'white';
     }
 
 }
+function getGroupName(s){
+   return s.replace(" ","").replace("'","")
+}
+function addHousePattern(d){
+    d3.select('defs')
+      .append('pattern')
+      .attr('id', getGroupName(d.name))
+      .attr('width', width)
+      .attr('height', height)
+      .attr('patternUnits', 'userSpaceOnUse')
+      .append('image')
+      .attr('x', 0)
+      .attr('y', 0)
+      .attr("id","image" + getGroupName(d.name))
+      .attr('width', house_radius*2)
+      .attr('height', house_radius*2)
+      .attr('xlink:href', 'images/' + d.name + ".jpg");
+
+}
 function getLinkStroke(d) {
-    di =d;
     return d.stroke;
 }
 function getLinkClass(d){
@@ -192,7 +213,6 @@ function getLinkClass(d){
     }else{
         return "bound links";
     }
-
 }
 
 function dragstarted(d) {
