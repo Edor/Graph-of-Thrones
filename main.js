@@ -22,18 +22,15 @@ var simulation = d3.forceSimulation()
 d3.json("data3.json", function (error, graph) {
     if (error) throw error;
     var link = svg.append("g")
-        .attr("class", "links")
         .selectAll("line")
         .data(graph.links)
         .enter().append("line")
-        .style("stroke", function (d) {
-            return d.stroke;
-        })
+        .style("stroke", getLinkStroke)
+        .attr("class", getLinkClass)
         .attr("stroke-width", function (d) {
             return 4 / Math.sqrt(d.value) + 1;
         });
     node = svg.append("g")
-        .attr("class", "nodes")
         .selectAll("circle")
         .data(graph.nodes)
         .enter().append("circle")
@@ -43,8 +40,8 @@ d3.json("data3.json", function (error, graph) {
         .attr("id",function (d) {
             return d.id;
         })
-        .style("stroke", strokingfn)
-        .attr("fill", fillingfn)
+        .style("stroke", getNodeStroke)
+        .attr("fill", getNodeFill)
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
@@ -85,12 +82,32 @@ d3.json("data3.json", function (error, graph) {
             });
         node
             .attr("cx", function (d) {
+                d3.select("image#image"+d.id).attr("x", d.x - 32);
+                d = validate(d);
                 return d.x;
             })
             .attr("cy", function (d) {
+                d3.select("image#image"+d.id).attr("y", d.y - 32);
+                d = validate(d);
                 return d.y;
             });
 
+    }
+    function validate(d){
+        rad = radius;
+         if(d.x - rad < 0){
+            d.x = rad;
+         }
+         if(d.y - rad < 0){
+            d.y = rad;
+         }
+         if(d.x + rad > width){
+            d.x = width - rad;
+         }
+         if(d.y + rad > height){
+            d.y = height - rad;
+         }
+         return d;
     }
     function handleMouseOver(d){
         node.nodes()[d.id].setAttribute("r",32);
@@ -99,10 +116,11 @@ d3.json("data3.json", function (error, graph) {
         }));
         if (!d3.event.active) simulation.alphaTarget(0.1).restart();
 
-        addImagePattern(d.name)
+        addImagePattern(d)
         node.nodes()[d.id].setAttribute("fill","url(#image)")
 
     }
+
      function handleMouseOut(d){
          simulation.force('collision', d3.forceCollide().radius(function(d) {
             return node.nodes()[d.id].getAttribute("r");
@@ -112,21 +130,22 @@ d3.json("data3.json", function (error, graph) {
 
         node.nodes()[d.id].setAttribute("r",getRadius(d));
         removeImagePattern()
-        node.nodes()[d.id].setAttribute("fill",fillingfn(d))
+        node.nodes()[d.id].setAttribute("fill",getNodeFill(d))
     }
-    function addImagePattern(name){
+    function addImagePattern(d){
         d3.select('defs')
           .append('pattern')
           .attr('id', 'image')
-          .attr('width', 128)
-          .attr('height', 128)
+          .attr('width', width)
+          .attr('height', height)
           .attr('patternUnits', 'userSpaceOnUse')
           .append('image')
-          .attr('x', 32)
-          .attr('y', 32)
+          .attr('x', d.x-32)
+          .attr('y', d.y-32)
+          .attr("id","image" + d.id)
           .attr('width', 64)
           .attr('height', 64)
-          .attr('xlink:href', 'images/'+name+".jpg");
+          .attr('xlink:href', 'images/' + d.name + ".jpg");
 
     }
     function removeImagePattern(){
@@ -136,7 +155,7 @@ d3.json("data3.json", function (error, graph) {
 
 });
 
-function strokingfn(d) {
+function getNodeStroke(d) {
     if (d['group']) {
         return color(d['group']);
     } else if (d['house-marriage']) {
@@ -149,7 +168,7 @@ function strokingfn(d) {
         return 'black';
     }
 }
-function fillingfn(d) {
+function getNodeFill(d) {
     if (d['group']) {
         return color(d['group']);
     } else if (d['house-marriage']) {
@@ -160,6 +179,18 @@ function fillingfn(d) {
         return color(d['name']);
     } else {
         return 'white';
+    }
+
+}
+function getLinkStroke(d) {
+    di =d;
+    return d.stroke;
+}
+function getLinkClass(d){
+    if (d.hasOwnProperty("relation")){
+         return d.relation.replace("-","") + " links";
+    }else{
+        return "bound links";
     }
 
 }
