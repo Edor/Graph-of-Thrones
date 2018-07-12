@@ -194,7 +194,7 @@ function getNodeFill(d) {
 
 }
 function getGroupName(s){
-   return s.replace(" ","").replace("'","")
+   return s.replace(" ","").replace(" ","").replace("'","")
 }
 function addHousePattern(d){
     d3.select('defs')

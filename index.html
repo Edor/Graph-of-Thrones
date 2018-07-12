@@ -24,22 +24,34 @@
     }
 
     svg {
-       border-collapse: collapse;
-       position: absolute;
+        border-collapse: collapse;
+        position: absolute;
+        background-image: url(images/got.png);
+        background-repeat: no-repeat;
+        background-size: 20%;
     }
-    fieldset{
+    form{
+        border-style: solid;
+        border-width: 2px;
+        border-color: gray;
         position:absolute;
+
         right: 5px;
-        top: 5px;
+        top: 10px;
 
     }
     legend {
         width: 200px;
         color: black;
-        padding: 3px 6px;
         border: 1px;
         border-style: double;
         padding: 3px 6px;
+        position: relative;
+        top: -6px;
+        fill: white;
+        background-color: white;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     .output {
         font: 1rem 'Fira Sans', sans-serif;
@@ -73,7 +85,7 @@
     }
 </style>
 <svg width="100%" height="100%"><defs></defs></svg>
-<fieldset>
+<form autocomplete="off">
     <legend>Legend</legend>
 
     <div>
@@ -108,7 +120,7 @@
                value="house" />
         <label for="house">House</label>
     </div>
-</fieldset>
+</form>
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src ="main.js"></script>
